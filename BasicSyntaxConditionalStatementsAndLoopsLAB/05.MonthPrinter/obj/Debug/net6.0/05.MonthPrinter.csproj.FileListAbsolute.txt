@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\bin\Debug\net6.0\05.MonthPrinter.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\obj\Debug\net6.0\refint\05.MonthPrinter.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\obj\Debug\net6.0\05.MonthPrinter.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\05.MonthPrinter\obj\Debug\net6.0\ref\05.MonthPrinter.dll

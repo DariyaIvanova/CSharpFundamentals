@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\bin\Debug\net6.0\StudentInformation.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\bin\Debug\net6.0\StudentInformation.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\bin\Debug\net6.0\StudentInformation.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\bin\Debug\net6.0\StudentInformation.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\bin\Debug\net6.0\StudentInformation.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\obj\Debug\net6.0\StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\obj\Debug\net6.0\StudentInformation.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\obj\Debug\net6.0\StudentInformation.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\obj\Debug\net6.0\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\obj\Debug\net6.0\StudentInformation.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\obj\Debug\net6.0\refint\StudentInformation.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\obj\Debug\net6.0\StudentInformation.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\obj\Debug\net6.0\StudentInformation.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\StudentInformation\obj\Debug\net6.0\ref\StudentInformation.dll

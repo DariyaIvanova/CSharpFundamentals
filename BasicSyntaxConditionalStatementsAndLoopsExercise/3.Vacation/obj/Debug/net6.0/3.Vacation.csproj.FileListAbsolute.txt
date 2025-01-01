@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\bin\Debug\net6.0\3.Vacation.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\bin\Debug\net6.0\3.Vacation.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\bin\Debug\net6.0\3.Vacation.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\bin\Debug\net6.0\3.Vacation.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\bin\Debug\net6.0\3.Vacation.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\obj\Debug\net6.0\3.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\obj\Debug\net6.0\3.Vacation.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\obj\Debug\net6.0\3.Vacation.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\obj\Debug\net6.0\3.Vacation.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\obj\Debug\net6.0\3.Vacation.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\obj\Debug\net6.0\refint\3.Vacation.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\obj\Debug\net6.0\3.Vacation.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\obj\Debug\net6.0\3.Vacation.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\3.Vacation\obj\Debug\net6.0\ref\3.Vacation.dll

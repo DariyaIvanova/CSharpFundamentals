@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\obj\Debug\net6.0\refint\8.TriangleOfNumbers.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\8.TriangleOfNumbers\obj\Debug\net6.0\ref\8.TriangleOfNumbers.dll

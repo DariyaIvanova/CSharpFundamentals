@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.exe
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.deps.json
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.dll
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.dll
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\refint\7.MaxSequenceOfEqualElements.dll
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Exercise\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\ref\7.MaxSequenceOfEqualElements.dll

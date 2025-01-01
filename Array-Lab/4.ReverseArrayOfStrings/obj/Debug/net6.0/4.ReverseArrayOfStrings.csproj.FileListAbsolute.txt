@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.exe
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.deps.json
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.dll
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.pdb
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.dll
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\obj\Debug\net6.0\refint\4.ReverseArrayOfStrings.dll
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.pdb
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Lab\4.ReverseArrayOfStrings\obj\Debug\net6.0\ref\4.ReverseArrayOfStrings.dll

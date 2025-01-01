@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\bin\Debug\net8.0\9.KaminoFactory-Resolved.exe
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\bin\Debug\net8.0\9.KaminoFactory-Resolved.deps.json
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\bin\Debug\net8.0\9.KaminoFactory-Resolved.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\bin\Debug\net8.0\9.KaminoFactory-Resolved.dll
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\bin\Debug\net8.0\9.KaminoFactory-Resolved.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\obj\Debug\net8.0\9.KaminoFactory-Resolved.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\obj\Debug\net8.0\9.KaminoFactory-Resolved.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\obj\Debug\net8.0\9.KaminoFactory-Resolved.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\obj\Debug\net8.0\9.KaminoFactory-Resolved.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\obj\Debug\net8.0\9.KaminoFactory-Resolved.dll
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\obj\Debug\net8.0\refint\9.KaminoFactory-Resolved.dll
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\obj\Debug\net8.0\9.KaminoFactory-Resolved.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\obj\Debug\net8.0\9.KaminoFactory-Resolved.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Exercise\9.KaminoFactory-Resolved\obj\Debug\net8.0\ref\9.KaminoFactory-Resolved.dll

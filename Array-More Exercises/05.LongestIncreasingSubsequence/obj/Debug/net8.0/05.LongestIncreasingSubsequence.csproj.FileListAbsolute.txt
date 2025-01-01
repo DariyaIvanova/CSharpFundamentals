@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\bin\Debug\net8.0\05.LongestIncreasingSubsequence.exe
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\bin\Debug\net8.0\05.LongestIncreasingSubsequence.deps.json
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\bin\Debug\net8.0\05.LongestIncreasingSubsequence.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\bin\Debug\net8.0\05.LongestIncreasingSubsequence.dll
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\bin\Debug\net8.0\05.LongestIncreasingSubsequence.pdb
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\obj\Debug\net8.0\05.LongestIncreasingSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\obj\Debug\net8.0\05.LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\obj\Debug\net8.0\05.LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\obj\Debug\net8.0\05.LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\obj\Debug\net8.0\05.LongestIncreasingSubsequence.dll
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\obj\Debug\net8.0\refint\05.LongestIncreasingSubsequence.dll
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\obj\Debug\net8.0\05.LongestIncreasingSubsequence.pdb
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\obj\Debug\net8.0\05.LongestIncreasingSubsequence.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-More Exercises\05.LongestIncreasingSubsequence\obj\Debug\net8.0\ref\05.LongestIncreasingSubsequence.dll

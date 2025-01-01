@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\bin\Debug\net8.0\04.FoldAndSum.exe
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\bin\Debug\net8.0\04.FoldAndSum.deps.json
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\bin\Debug\net8.0\04.FoldAndSum.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\bin\Debug\net8.0\04.FoldAndSum.dll
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\bin\Debug\net8.0\04.FoldAndSum.pdb
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\obj\Debug\net8.0\04.FoldAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\obj\Debug\net8.0\04.FoldAndSum.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\obj\Debug\net8.0\04.FoldAndSum.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\obj\Debug\net8.0\04.FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\obj\Debug\net8.0\04.FoldAndSum.dll
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\obj\Debug\net8.0\refint\04.FoldAndSum.dll
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\obj\Debug\net8.0\04.FoldAndSum.pdb
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\obj\Debug\net8.0\04.FoldAndSum.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-More Exercises\04.FoldAndSum\obj\Debug\net8.0\ref\04.FoldAndSum.dll

@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.exe
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.deps.json
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.dll
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.dll
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\obj\Debug\net6.0\refint\4.ArrayRotation.dll
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Exercise\4.ArrayRotation\obj\Debug\net6.0\ref\4.ArrayRotation.dll

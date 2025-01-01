@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\refint\03.WordSynonyms.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-LAB\03.WordSynonyms\obj\Debug\net6.0\ref\03.WordSynonyms.dll

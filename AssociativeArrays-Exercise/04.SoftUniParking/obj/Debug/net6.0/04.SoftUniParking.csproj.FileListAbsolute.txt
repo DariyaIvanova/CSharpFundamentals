@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\refint\04.SoftUniParking.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\04.SoftUniParking\obj\Debug\net6.0\ref\04.SoftUniParking.dll

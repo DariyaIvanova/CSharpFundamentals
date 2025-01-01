@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\bin\Debug\net6.0\Division.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\bin\Debug\net6.0\Division.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\bin\Debug\net6.0\Division.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\bin\Debug\net6.0\Division.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\bin\Debug\net6.0\Division.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\obj\Debug\net6.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\obj\Debug\net6.0\Division.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\obj\Debug\net6.0\Division.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\obj\Debug\net6.0\Division.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\obj\Debug\net6.0\Division.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\obj\Debug\net6.0\refint\Division.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\obj\Debug\net6.0\Division.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\obj\Debug\net6.0\Division.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\Division\obj\Debug\net6.0\ref\Division.dll

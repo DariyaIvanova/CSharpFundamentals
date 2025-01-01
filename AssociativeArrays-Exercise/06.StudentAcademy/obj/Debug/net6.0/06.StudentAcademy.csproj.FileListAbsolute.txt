@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\refint\06.StudentAcademy.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\06.StudentAcademy\obj\Debug\net6.0\ref\06.StudentAcademy.dll

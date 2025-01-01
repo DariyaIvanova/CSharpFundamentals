@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\bin\Debug\net8.0\01.EncryptSortAndPrintArray.exe
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\bin\Debug\net8.0\01.EncryptSortAndPrintArray.deps.json
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\bin\Debug\net8.0\01.EncryptSortAndPrintArray.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\bin\Debug\net8.0\01.EncryptSortAndPrintArray.dll
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\bin\Debug\net8.0\01.EncryptSortAndPrintArray.pdb
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\obj\Debug\net8.0\01.EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\obj\Debug\net8.0\01.EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\obj\Debug\net8.0\01.EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\obj\Debug\net8.0\01.EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\obj\Debug\net8.0\01.EncryptSortAndPrintArray.dll
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\obj\Debug\net8.0\refint\01.EncryptSortAndPrintArray.dll
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\obj\Debug\net8.0\01.EncryptSortAndPrintArray.pdb
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\obj\Debug\net8.0\01.EncryptSortAndPrintArray.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-More Exercises\01.EncryptSortAndPrintArray\obj\Debug\net8.0\ref\01.EncryptSortAndPrintArray.dll

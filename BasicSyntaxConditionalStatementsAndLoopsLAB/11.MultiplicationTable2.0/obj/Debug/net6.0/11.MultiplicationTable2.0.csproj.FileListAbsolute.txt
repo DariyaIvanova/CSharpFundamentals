@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\bin\Debug\net6.0\11.MultiplicationTable2.0.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\obj\Debug\net6.0\refint\11.MultiplicationTable2.0.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\obj\Debug\net6.0\11.MultiplicationTable2.0.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\11.MultiplicationTable2.0\obj\Debug\net6.0\ref\11.MultiplicationTable2.0.dll

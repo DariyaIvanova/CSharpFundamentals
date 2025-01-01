@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E455FCB9-D5B9-42FE-8173-56421E570696}|04.WordFilter\\04.WordFilter.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-lab\\04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E455FCB9-D5B9-42FE-8173-56421E570696}|04.WordFilter\\04.WordFilter.csproj|solutionrelative:04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190885C4-966B-4F34-80A4-E5F6EA928A1E}|03.WordSynonyms\\03.WordSynonyms.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-lab\\03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190885C4-966B-4F34-80A4-E5F6EA928A1E}|03.WordSynonyms\\03.WordSynonyms.csproj|solutionrelative:03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637DAD22-55D3-4077-AFBE-D28766F18D15}|02.OddOccurrences\\02.OddOccurrences.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-lab\\02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637DAD22-55D3-4077-AFBE-D28766F18D15}|02.OddOccurrences\\02.OddOccurrences.csproj|solutionrelative:02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F3959-A333-4EEB-B837-F11D58D66412}|01.CountRealNumbers\\01.CountRealNumbers.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-lab\\01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72F3959-A333-4EEB-B837-F11D58D66412}|01.CountRealNumbers\\01.CountRealNumbers.csproj|solutionrelative:01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-LAB\\04.WordFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.WordFilter\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-LAB\\04.WordFilter\\Program.cs",
+              "RelativeToolTip": "04.WordFilter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:34:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-LAB\\03.WordSynonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03.WordSynonyms\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-LAB\\03.WordSynonyms\\Program.cs",
+              "RelativeToolTip": "03.WordSynonyms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:25:36.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-LAB\\02.OddOccurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02.OddOccurrences\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-LAB\\02.OddOccurrences\\Program.cs",
+              "RelativeToolTip": "02.OddOccurrences\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:16:36.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-LAB\\01.CountRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountRealNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-LAB\\01.CountRealNumbers\\Program.cs",
+              "RelativeToolTip": "01.CountRealNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:38:50.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

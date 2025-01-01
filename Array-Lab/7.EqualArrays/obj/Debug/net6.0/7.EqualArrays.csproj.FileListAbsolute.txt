@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\bin\Debug\net6.0\7.EqualArrays.exe
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\bin\Debug\net6.0\7.EqualArrays.deps.json
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\bin\Debug\net6.0\7.EqualArrays.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\bin\Debug\net6.0\7.EqualArrays.dll
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\bin\Debug\net6.0\7.EqualArrays.pdb
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\obj\Debug\net6.0\7.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\obj\Debug\net6.0\7.EqualArrays.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\obj\Debug\net6.0\7.EqualArrays.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\obj\Debug\net6.0\7.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\obj\Debug\net6.0\7.EqualArrays.dll
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\obj\Debug\net6.0\refint\7.EqualArrays.dll
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\obj\Debug\net6.0\7.EqualArrays.pdb
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\obj\Debug\net6.0\7.EqualArrays.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Lab\7.EqualArrays\obj\Debug\net6.0\ref\7.EqualArrays.dll

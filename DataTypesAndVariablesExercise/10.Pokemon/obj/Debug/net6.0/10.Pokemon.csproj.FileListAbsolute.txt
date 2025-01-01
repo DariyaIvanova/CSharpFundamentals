@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.exe
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.deps.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.runtimeconfig.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\bin\Debug\net6.0\10.Pokemon.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\obj\Debug\net6.0\refint\10.Pokemon.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\obj\Debug\net6.0\10.Pokemon.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\10.Pokemon\obj\Debug\net6.0\ref\10.Pokemon.dll

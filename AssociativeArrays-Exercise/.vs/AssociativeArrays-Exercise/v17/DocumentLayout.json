@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{035A5709-8B99-4153-BB0C-E2B67749A325}|05.Courses\\05.Courses.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-exercise\\05.courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035A5709-8B99-4153-BB0C-E2B67749A325}|05.Courses\\05.Courses.csproj|solutionrelative:05.courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7932F57-D886-41B2-8D99-F8D53EF9EF85}|04.SoftUniParking\\04.SoftUniParking.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-exercise\\04.softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7932F57-D886-41B2-8D99-F8D53EF9EF85}|04.SoftUniParking\\04.SoftUniParking.csproj|solutionrelative:04.softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EA353C-BFAA-441B-994C-A3432EC93BF7}|02.AMinerTask\\02.AMinerTask.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-exercise\\02.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EA353C-BFAA-441B-994C-A3432EC93BF7}|02.AMinerTask\\02.AMinerTask.csproj|solutionrelative:02.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA5B8E1-5710-4E2A-9C6A-FE3A7AE964E7}|01.CountCharsInAString\\01.CountCharsInAString.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-exercise\\01.countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA5B8E1-5710-4E2A-9C6A-FE3A7AE964E7}|01.CountCharsInAString\\01.CountCharsInAString.csproj|solutionrelative:01.countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3C29D-E472-4B3E-8D14-986117B3CC29}|03.Orders\\03.Orders.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-exercise\\03.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3C29D-E472-4B3E-8D14-986117B3CC29}|03.Orders\\03.Orders.csproj|solutionrelative:03.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD18C748-159D-460D-A866-F981F85E9EFD}|06.CompanyUsers-Classes\\06.CompanyUsers-Classes.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-exercise\\06.companyusers-classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD18C748-159D-460D-A866-F981F85E9EFD}|06.CompanyUsers-Classes\\06.CompanyUsers-Classes.csproj|solutionrelative:06.companyusers-classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC8B50E-A604-4F66-8E8C-331716AE8F80}|06.StudentAcademy\\06.StudentAcademy.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-exercise\\06.studentacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC8B50E-A604-4F66-8E8C-331716AE8F80}|06.StudentAcademy\\06.StudentAcademy.csproj|solutionrelative:06.studentacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107748D-D034-4347-94DD-1A397700E86A}|07.CompanyUsers\\07.CompanyUsers.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\associativearrays-exercise\\07.companyusers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D107748D-D034-4347-94DD-1A397700E86A}|07.CompanyUsers\\07.CompanyUsers.csproj|solutionrelative:07.companyusers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\05.Courses\\Program.cs",
+              "RelativeDocumentMoniker": "05.Courses\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\05.Courses\\Program.cs",
+              "RelativeToolTip": "05.Courses\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:14:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\04.SoftUniParking\\Program.cs",
+              "RelativeDocumentMoniker": "04.SoftUniParking\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\04.SoftUniParking\\Program.cs",
+              "RelativeToolTip": "04.SoftUniParking\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:05:26.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\02.AMinerTask\\Program.cs",
+              "RelativeDocumentMoniker": "02.AMinerTask\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\02.AMinerTask\\Program.cs",
+              "RelativeToolTip": "02.AMinerTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:54:34.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\01.CountCharsInAString\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountCharsInAString\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\01.CountCharsInAString\\Program.cs",
+              "RelativeToolTip": "01.CountCharsInAString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:46:44.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\03.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "03.Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\03.Orders\\Program.cs",
+              "RelativeToolTip": "03.Orders\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:23:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\06.CompanyUsers-Classes\\Program.cs",
+              "RelativeDocumentMoniker": "06.CompanyUsers-Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\06.CompanyUsers-Classes\\Program.cs",
+              "RelativeToolTip": "06.CompanyUsers-Classes\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:47:26.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\07.CompanyUsers\\Program.cs",
+              "RelativeDocumentMoniker": "07.CompanyUsers\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\07.CompanyUsers\\Program.cs",
+              "RelativeToolTip": "07.CompanyUsers\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:35:14.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\06.StudentAcademy\\Program.cs",
+              "RelativeDocumentMoniker": "06.StudentAcademy\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\AssociativeArrays-Exercise\\06.StudentAcademy\\Program.cs",
+              "RelativeToolTip": "06.StudentAcademy\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:34:36.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\obj\Debug\net6.0\refint\6.StrongNumber.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\6.StrongNumber\obj\Debug\net6.0\ref\6.StrongNumber.dll

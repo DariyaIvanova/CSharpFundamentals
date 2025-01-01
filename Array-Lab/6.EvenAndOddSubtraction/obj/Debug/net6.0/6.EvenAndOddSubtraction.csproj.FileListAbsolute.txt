@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\bin\Debug\net6.0\6.EvenAndOddSubtraction.exe
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\bin\Debug\net6.0\6.EvenAndOddSubtraction.deps.json
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\bin\Debug\net6.0\6.EvenAndOddSubtraction.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\bin\Debug\net6.0\6.EvenAndOddSubtraction.dll
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\bin\Debug\net6.0\6.EvenAndOddSubtraction.pdb
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\obj\Debug\net6.0\6.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\obj\Debug\net6.0\6.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\obj\Debug\net6.0\6.EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\obj\Debug\net6.0\6.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\obj\Debug\net6.0\6.EvenAndOddSubtraction.dll
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\obj\Debug\net6.0\refint\6.EvenAndOddSubtraction.dll
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\obj\Debug\net6.0\6.EvenAndOddSubtraction.pdb
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\obj\Debug\net6.0\6.EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Lab\6.EvenAndOddSubtraction\obj\Debug\net6.0\ref\6.EvenAndOddSubtraction.dll

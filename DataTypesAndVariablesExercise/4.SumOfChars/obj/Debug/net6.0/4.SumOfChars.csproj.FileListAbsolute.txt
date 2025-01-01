@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.exe
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.deps.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.runtimeconfig.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\refint\4.SumOfChars.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\ref\4.SumOfChars.dll

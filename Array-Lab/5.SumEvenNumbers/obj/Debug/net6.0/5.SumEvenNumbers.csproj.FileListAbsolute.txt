@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.exe
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.deps.json
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.dll
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.pdb
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.dll
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\obj\Debug\net6.0\refint\5.SumEvenNumbers.dll
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.pdb
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Lab\5.SumEvenNumbers\obj\Debug\net6.0\ref\5.SumEvenNumbers.dll

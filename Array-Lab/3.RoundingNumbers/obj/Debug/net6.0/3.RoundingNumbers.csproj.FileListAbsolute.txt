@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.exe
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.deps.json
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.dll
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.pdb
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.dll
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\obj\Debug\net6.0\refint\3.RoundingNumbers.dll
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.pdb
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Lab\3.RoundingNumbers\obj\Debug\net6.0\ref\3.RoundingNumbers.dll

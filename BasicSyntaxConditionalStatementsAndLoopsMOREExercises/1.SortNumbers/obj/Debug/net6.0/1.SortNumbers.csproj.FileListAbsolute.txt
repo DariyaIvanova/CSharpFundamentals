@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\obj\Debug\net6.0\refint\1.SortNumbers.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\1.SortNumbers\obj\Debug\net6.0\ref\1.SortNumbers.dll

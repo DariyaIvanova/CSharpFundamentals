@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\obj\Debug\net6.0\refint\12.EvenNumber.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\12.EvenNumber\obj\Debug\net6.0\ref\12.EvenNumber.dll

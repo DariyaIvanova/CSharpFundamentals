@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\bin\Debug\net6.0\6.Equal Sum.exe
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\bin\Debug\net6.0\6.Equal Sum.deps.json
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\bin\Debug\net6.0\6.Equal Sum.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\bin\Debug\net6.0\6.Equal Sum.dll
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\bin\Debug\net6.0\6.Equal Sum.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\obj\Debug\net6.0\6.Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\obj\Debug\net6.0\6.Equal Sum.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\obj\Debug\net6.0\6.Equal Sum.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\obj\Debug\net6.0\6.Equal Sum.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\obj\Debug\net6.0\6.Equal Sum.dll
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\obj\Debug\net6.0\refint\6.Equal Sum.dll
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\obj\Debug\net6.0\6.Equal Sum.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\obj\Debug\net6.0\6.Equal Sum.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Exercise\6.Equal Sum\obj\Debug\net6.0\ref\6.Equal Sum.dll

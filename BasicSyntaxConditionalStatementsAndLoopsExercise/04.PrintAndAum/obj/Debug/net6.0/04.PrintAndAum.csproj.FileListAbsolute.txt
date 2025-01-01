@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\bin\Debug\net6.0\04.PrintAndAum.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\bin\Debug\net6.0\04.PrintAndAum.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\bin\Debug\net6.0\04.PrintAndAum.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\bin\Debug\net6.0\04.PrintAndAum.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\bin\Debug\net6.0\04.PrintAndAum.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\obj\Debug\net6.0\04.PrintAndAum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\obj\Debug\net6.0\04.PrintAndAum.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\obj\Debug\net6.0\04.PrintAndAum.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\obj\Debug\net6.0\04.PrintAndAum.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\obj\Debug\net6.0\04.PrintAndAum.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\obj\Debug\net6.0\refint\04.PrintAndAum.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\obj\Debug\net6.0\04.PrintAndAum.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\obj\Debug\net6.0\04.PrintAndAum.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\04.PrintAndAum\obj\Debug\net6.0\ref\04.PrintAndAum.dll

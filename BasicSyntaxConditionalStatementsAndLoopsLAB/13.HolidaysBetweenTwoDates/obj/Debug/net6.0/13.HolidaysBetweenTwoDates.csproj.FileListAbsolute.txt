@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\bin\Debug\net6.0\13.HolidaysBetweenTwoDates.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\refint\13.HolidaysBetweenTwoDates.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\13.HolidaysBetweenTwoDates.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLAB\13.HolidaysBetweenTwoDates\obj\Debug\net6.0\ref\13.HolidaysBetweenTwoDates.dll

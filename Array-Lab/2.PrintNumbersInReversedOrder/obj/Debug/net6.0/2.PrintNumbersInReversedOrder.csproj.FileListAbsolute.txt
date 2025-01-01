@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\bin\Debug\net6.0\2.PrintNumbersInReversedOrder.exe
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\bin\Debug\net6.0\2.PrintNumbersInReversedOrder.deps.json
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\bin\Debug\net6.0\2.PrintNumbersInReversedOrder.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\bin\Debug\net6.0\2.PrintNumbersInReversedOrder.dll
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\bin\Debug\net6.0\2.PrintNumbersInReversedOrder.pdb
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\obj\Debug\net6.0\2.PrintNumbersInReversedOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\obj\Debug\net6.0\2.PrintNumbersInReversedOrder.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\obj\Debug\net6.0\2.PrintNumbersInReversedOrder.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\obj\Debug\net6.0\2.PrintNumbersInReversedOrder.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\obj\Debug\net6.0\2.PrintNumbersInReversedOrder.dll
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\obj\Debug\net6.0\refint\2.PrintNumbersInReversedOrder.dll
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\obj\Debug\net6.0\2.PrintNumbersInReversedOrder.pdb
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\obj\Debug\net6.0\2.PrintNumbersInReversedOrder.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Lab\2.PrintNumbersInReversedOrder\obj\Debug\net6.0\ref\2.PrintNumbersInReversedOrder.dll

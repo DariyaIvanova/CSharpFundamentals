@@ -1,0 +1,145 @@
+SHORTCUTS:
+
+ALT + Enter = > convert to program main style
+CTRL+K+C - after select multiple lines we can comment all of them
+CTRL+SHIFT+SPACE - we can view the overloading methods
+CTRL+K+D - formatting code against the rules
+CTRL F5 - start without debugging
+F5 - start with debugger
+F10/F11 - trace the program
+F9 - toggle/untoggle breakpoint
+ALT+ arrow (up/down) after selection of multiple lines code, moves it up or down
+Windows button + arrows (up, down,left, right)
+moves the window
+Ctrl K K -make bookmarks
+CTRL R R - change the name of the variable anywhere in the code
+CTRL F - search in the code Visual studio
+CTRL H - change the searched thing
+CTRL + SHFT + HOME - marks from the position of the cursor till the start of the page
+CTRL + SHFT + END- marks from the position of the cursor till the end of the page
+
+
+
+=>>>How to reverse a String using charArray?
+
+string input = Console.ReadLine();
+char[] inputArray = input.ToCharArray();
+Array.Reverse(inputArray);
+string output = new string(inputArray);
+Console.WriteLine(output);
+
+
+=>>>How to sort an array in descending order?
+
+int[] nums = new int[3];
+for (int i = 0; i < nums.Length; i++)
+{nums[i] = int.Parse(Console.ReadLine());}
+Array.Sort(nums, (a, b) => b.CompareTo(a));
+for (int i = 0; i < nums.Length; i++)
+{Console.WriteLine(nums[i]);}
+
+
+=>>>>Combinations
+Напишете програма, която изчислява колко решения в естествените числа (включително и нулата) има уравнението:
+x1 + x2 + x3 = nЧислото n е цяло число и се въвежда от конзолата. 
+
+int n = int.Parse(Console.ReadLine());
+// Mathematical solution using arithmetic progressions. Complexity: O(1)
+/*int ans = (n + 1) * (n + 2) / 2;
+Console.WriteLine(ans);*/
+
+int ans = 0;
+for (int i = 0; i <= n; i++)
+{
+    int remaining = n - i;
+    for (int j = 0; j <= remaining; j++)
+    {
+        // i + j + _ = n
+        ans++;
+    }
+}Console.WriteLine(ans);
+
+
+=>>>>> ARRAY
+Reading array:
+int [] numbers=Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+Creating new array:
+string[] daysOfWeek=new string[7] {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
+Writing an array: 
+Array.Reverse(number);
+Console.WriteLine(string.Join(", ", numbers));
+
+
+=>>>>>FORMATTING
+string[] results = tests.Split(new char[] { ']', '[' }, StringSplitOptions.RemoveEmptyEntries);
+MM - Month with leading 0
+M - Month without leading 0
+dd - Day with leading 0
+d - Day without leading 0
+yyyy - 4 Digit year
+yy - 2 Digit year
+HH - Military Hour with leading 0
+H - Military Hour without leading 0
+hh - Hour with leading 0
+h - Hour without leading 0
+mm - Minute with leading 0
+m - Minute without leading 0
+ss - Second with leading 0
+s - Second without leading 0
+tt - AM / PM 
+
+
+=>>>>>FOR Cycle
+FOR CYCLE
+for ( initialization (Control variable); Condition; Change/step)
+
+
+
+
+=>>>> Ternarny operation
+Ternanry operator:
+available money=available money-money ? 0: available money-money 
+this is equivalent to:
+if (available money-money<0)
+{
+available money=0;
+}
+else 
+{
+available money-=money
+}
+
+
+=>>>>> Algorythm for checking PRIME Numbers
+static bool IsPrimeChecker(int number)
+{
+    bool prime = true;
+    for (int i =2; i <= Math.Sqrt(number) ; i++)
+    {
+        if (number%i==0)
+        {
+            prime = false;
+            break;
+        }
+    }
+    return prime;
+}
+
+
+
+=>>>>GIT and GitHub
+Git is version(source) control system
+GitHub is source code hosting site
+ - free for open sourceprojects
+ - paid plans for private repository
+GitHub provides:
+ - git source code repository
+ - issue tracker (bug tracker)
+ - project board (Kanban style)
+ - Wiki pages (documentation)
+ - Code reviews(pul requests)
+ - Build system
+ - Site hosting
+ - Discussions
+
+

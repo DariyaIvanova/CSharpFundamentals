@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\bin\Debug\net6.0\03.Orders.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\bin\Debug\net6.0\03.Orders.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\bin\Debug\net6.0\03.Orders.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\bin\Debug\net6.0\03.Orders.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\bin\Debug\net6.0\03.Orders.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\03.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\03.Orders.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\03.Orders.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\03.Orders.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\03.Orders.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\03.Orders.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\refint\03.Orders.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\03.Orders.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\03.Orders.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\AssociativeArrays-Exercise\03.Orders\obj\Debug\net6.0\ref\03.Orders.dll

@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.exe
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.deps.json
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.runtimeconfig.json
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.dll
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.dll
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\obj\Debug\net8.0\refint\10. LadyBugs.dll
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.pdb
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Array-Exercise\10. LadyBugs\obj\Debug\net8.0\ref\10. LadyBugs.dll

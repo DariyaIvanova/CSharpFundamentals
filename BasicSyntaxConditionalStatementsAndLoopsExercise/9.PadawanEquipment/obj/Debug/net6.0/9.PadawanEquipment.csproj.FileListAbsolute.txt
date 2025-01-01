@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\bin\Debug\net6.0\9.PadawanEquipment.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\bin\Debug\net6.0\9.PadawanEquipment.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\bin\Debug\net6.0\9.PadawanEquipment.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\bin\Debug\net6.0\9.PadawanEquipment.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\bin\Debug\net6.0\9.PadawanEquipment.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\obj\Debug\net6.0\9.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\obj\Debug\net6.0\9.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\obj\Debug\net6.0\9.PadawanEquipment.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\obj\Debug\net6.0\9.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\obj\Debug\net6.0\9.PadawanEquipment.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\obj\Debug\net6.0\refint\9.PadawanEquipment.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\obj\Debug\net6.0\9.PadawanEquipment.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\obj\Debug\net6.0\9.PadawanEquipment.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsExercise\9.PadawanEquipment\obj\Debug\net6.0\ref\9.PadawanEquipment.dll

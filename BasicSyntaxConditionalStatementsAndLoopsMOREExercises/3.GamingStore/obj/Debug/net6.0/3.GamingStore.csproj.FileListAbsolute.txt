@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\bin\Debug\net6.0\3.GamingStore.exe
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\bin\Debug\net6.0\3.GamingStore.deps.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\bin\Debug\net6.0\3.GamingStore.runtimeconfig.json
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\bin\Debug\net6.0\3.GamingStore.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\bin\Debug\net6.0\3.GamingStore.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\obj\Debug\net6.0\3.GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\obj\Debug\net6.0\3.GamingStore.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\obj\Debug\net6.0\3.GamingStore.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\obj\Debug\net6.0\3.GamingStore.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\obj\Debug\net6.0\3.GamingStore.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\obj\Debug\net6.0\refint\3.GamingStore.dll
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\obj\Debug\net6.0\3.GamingStore.pdb
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\obj\Debug\net6.0\3.GamingStore.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsMOREExercises\3.GamingStore\obj\Debug\net6.0\ref\3.GamingStore.dll
