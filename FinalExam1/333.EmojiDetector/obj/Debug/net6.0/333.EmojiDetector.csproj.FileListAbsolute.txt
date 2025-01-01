@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\bin\Debug\net6.0\333.EmojiDetector.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\bin\Debug\net6.0\333.EmojiDetector.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\bin\Debug\net6.0\333.EmojiDetector.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\bin\Debug\net6.0\333.EmojiDetector.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\bin\Debug\net6.0\333.EmojiDetector.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\333.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\333.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\333.EmojiDetector.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\333.EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\333.EmojiDetector.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\333.EmojiDetector.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\refint\333.EmojiDetector.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\333.EmojiDetector.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\333.EmojiDetector.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\333.EmojiDetector\obj\Debug\net6.0\ref\333.EmojiDetector.dll

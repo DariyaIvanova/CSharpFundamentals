@@ -1,0 +1,139 @@
+
+int [] numbers= new int[] {5,6,3,2,1,4};
+console.WriteLine(Array.IndexOf(numbers, 1));
+
+string text="this is a very big string";
+char [] chArray=text.ToCharArray();
+int index = text. LastIndexOf("i", 21);
+
+Console.WriteLine(text);
+Console.WriteLine($"i=> {index}");
+
+///////////////////////////////////////////////////////
+Converting a string from and to a char array
+
+string str = new string(new char[] {'s','t','t'});
+char[] charArr = str.ToCharArray();
+// ['s', 't', 'r']
+
+
+///////////////////////////////////////////////////////
+CONTAINS - Check whether one string contains
+other string
+
+
+string text = "I love fruits.";
+Console.WriteLine(text.Contains("fruits")); // True
+Console.WriteLine(text.Contains("banana")); // False
+
+
+
+///////////////////////////////////////////////////////////
+Check how many times and on which indexes we can find the word?
+string text="121131";
+string word="1";
+int index = text.IndexOf(word);
+int counter=0;
+
+while (index!=-1)
+{
+Console.WriteLine($"{word}->{index}");
+index=text.IndexOf(word, index+1);
+counter++;
+}
+
+////////////////////////////////////////////////////////////////
+SUB - STRING
+▪ Substring(int startIndex, int length)
+string card = "10C";
+string power = card.Substring(0, 2);
+Console.WriteLine(power); // 10
+
+
+▪ Substring(int startIndex)
+string text = "My name is John";
+string extractWord = text.Substring(11);
+Console.WriteLine(extractWord); // John
+
+
+///////////////////////////////////////////////////////////////////
+REMOVE WORD from text
+string word=Console.ReadLine();
+string text=Console.ReadLine();
+
+
+int index=text.IndexOf(word);
+while(index!=-1)
+{
+text = text.Remove(index, word.Length);
+index=text.IndexOf(word);
+}
+
+Console.WriteLine(text);
+
+///////////////////////////////////////////////////////////////////
+SPLIT a string by a given separator
+▪ Split() a string by given separator
+▪ Split() a string by given separator
+string text = "Hello, john@softuni.bg, you have been using
+john@softuni.bg in your registration";
+string[] words = text.Split(", ");
+// words[]:
+// "Hello"
+// "john@softuni.bg"
+// "you have been using john@softuni.bg in your
+registration"
+
+
+▪ Split() can be used with multiple separators
+▪ Split() can be used with multiple separators
+char[] separators = new char[] { ' ', ',', '.' };
+string text = "Hello, I am John.";
+string[] words = text.Split(separators);
+// "Hello", "", "I", "am", "John", ""
+
+
+
+Using StringSplitOptions.RemoveEmptyEntries to
+remove empty array elements from the array returned
+char[] separators = new char[] { ' ', ',', '.' };
+string text = "Hello, I am John.";
+string[] words = text
+.Split(separators,
+StringSplitOptions.RemoveEmptyEntries);
+
+
+///////////////////////////////////////////////////////////////////////
+REPLACE
+▪ Replace(match, replacement) – replaces all occurrences
+▪ The result is a new string (strings are immutable)
+string text = "Hello, john@softuni.bg, you have been using john@
+softuni.bg in your registration.";
+string replacedText = text
+.Replace("john@softuni.bg", "john@softuni.com");
+Console.WriteLine(replacedText);
+// Output:
+// Hello, john@softuni.com, you have been using john@softuni.com
+in your registration
+
+
+How to replace a banned word with "*"?
+string bannedWord="some";
+string text = "some text";
+text = text.Replace(bannedWord, new string('*', bannedWord.Length);
+
+=>>>>>>>>>
+string [] bannedWords= Console.ReadLine().Split(", ");
+string text = @"Linux, Windows It is not Linux, it is GNU/Linux. Linux is merely the kernel, while GNU adds the functionality...";
+
+foreach(var bannedWord in bannedWords)
+{
+text=text.Replace(bannedWord, new string('*', bannedWord.Length));
+}
+Console.WriteLine(text);
+
+
+//////////////////////////////////////////////////////
+STRING Builder
+
+

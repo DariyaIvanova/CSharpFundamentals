@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\bin\Debug\net6.0\3.Pirates.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\bin\Debug\net6.0\3.Pirates.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\bin\Debug\net6.0\3.Pirates.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\bin\Debug\net6.0\3.Pirates.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\bin\Debug\net6.0\3.Pirates.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\3.Pirates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\3.Pirates.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\3.Pirates.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\3.Pirates.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\3.Pirates.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\3.Pirates.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\refint\3.Pirates.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\3.Pirates.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\3.Pirates.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\3.Pirates\obj\Debug\net6.0\ref\3.Pirates.dll

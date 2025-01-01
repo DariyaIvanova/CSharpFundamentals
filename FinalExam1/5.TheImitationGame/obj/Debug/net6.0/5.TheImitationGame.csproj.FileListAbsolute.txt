@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\5.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\5.TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\5.TheImitationGame.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\5.TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\5.TheImitationGame.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\bin\Debug\net6.0\5.TheImitationGame.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\bin\Debug\net6.0\5.TheImitationGame.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\bin\Debug\net6.0\5.TheImitationGame.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\bin\Debug\net6.0\5.TheImitationGame.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\bin\Debug\net6.0\5.TheImitationGame.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\5.TheImitationGame.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\refint\5.TheImitationGame.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\5.TheImitationGame.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\5.TheImitationGame.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\5.TheImitationGame\obj\Debug\net6.0\ref\5.TheImitationGame.dll

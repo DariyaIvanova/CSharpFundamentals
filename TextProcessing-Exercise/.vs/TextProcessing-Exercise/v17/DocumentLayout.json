@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B037EF21-1805-4E01-9A0C-DC47147BB724}|06.ReplaceRepeatingChars\\06.ReplaceRepeatingChars.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-exercise\\06.replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B037EF21-1805-4E01-9A0C-DC47147BB724}|06.ReplaceRepeatingChars\\06.ReplaceRepeatingChars.csproj|solutionrelative:06.replacerepeatingchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227D4B10-1F88-4950-B2B7-41D3E48FF786}|07.StringExplosion\\07.StringExplosion.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-exercise\\07.stringexplosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227D4B10-1F88-4950-B2B7-41D3E48FF786}|07.StringExplosion\\07.StringExplosion.csproj|solutionrelative:07.stringexplosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1990163A-93BA-4405-A706-ACDDCECBC472}|05.MultiplyBigNumber\\05.MultiplyBigNumber.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-exercise\\05.multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1990163A-93BA-4405-A706-ACDDCECBC472}|05.MultiplyBigNumber\\05.MultiplyBigNumber.csproj|solutionrelative:05.multiplybignumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF65F37-A2D7-4EC0-892C-F994D6D92B9B}|3.ExtractFile\\3.ExtractFile.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-exercise\\3.extractfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF65F37-A2D7-4EC0-892C-F994D6D92B9B}|3.ExtractFile\\3.ExtractFile.csproj|solutionrelative:3.extractfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5F6B23-37D8-415C-80D9-0093A5B7A049}|02.CharacterMultiplier\\02.CharacterMultiplier.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-exercise\\02.charactermultiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5F6B23-37D8-415C-80D9-0093A5B7A049}|02.CharacterMultiplier\\02.CharacterMultiplier.csproj|solutionrelative:02.charactermultiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F2816-DE1F-4118-BEFD-93B04F315C05}|1.ValidUsernames\\1.ValidUsernames.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-exercise\\1.validusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6F2816-DE1F-4118-BEFD-93B04F315C05}|1.ValidUsernames\\1.ValidUsernames.csproj|solutionrelative:1.validusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56119850-B4F3-4FBF-A5AA-E99EC9F239AF}|04.CaesarCipher\\04.CaesarCipher.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-exercise\\04.caesarcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56119850-B4F3-4FBF-A5AA-E99EC9F239AF}|04.CaesarCipher\\04.CaesarCipher.csproj|solutionrelative:04.caesarcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D23E039-13B9-43FB-8F6F-DD5D0883C5F2}|08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-exercise\\08.letterschangenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D23E039-13B9-43FB-8F6F-DD5D0883C5F2}|08.LettersChangeNumbers\\08.LettersChangeNumbers.csproj|solutionrelative:08.letterschangenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\06.ReplaceRepeatingChars\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReplaceRepeatingChars\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\06.ReplaceRepeatingChars\\Program.cs",
+              "RelativeToolTip": "06.ReplaceRepeatingChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:31:56.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\07.StringExplosion\\Program.cs",
+              "RelativeDocumentMoniker": "07.StringExplosion\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\07.StringExplosion\\Program.cs",
+              "RelativeToolTip": "07.StringExplosion\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:35:27.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\04.CaesarCipher\\Program.cs",
+              "RelativeDocumentMoniker": "04.CaesarCipher\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\04.CaesarCipher\\Program.cs",
+              "RelativeToolTip": "04.CaesarCipher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:31:30.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\08.LettersChangeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.LettersChangeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\08.LettersChangeNumbers\\Program.cs",
+              "RelativeToolTip": "08.LettersChangeNumbers\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:31:01.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\05.MultiplyBigNumber\\Program.cs",
+              "RelativeDocumentMoniker": "05.MultiplyBigNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\05.MultiplyBigNumber\\Program.cs",
+              "RelativeToolTip": "05.MultiplyBigNumber\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:41:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\3.ExtractFile\\Program.cs",
+              "RelativeDocumentMoniker": "3.ExtractFile\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\3.ExtractFile\\Program.cs",
+              "RelativeToolTip": "3.ExtractFile\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:32:38.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\02.CharacterMultiplier\\Program.cs",
+              "RelativeDocumentMoniker": "02.CharacterMultiplier\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\02.CharacterMultiplier\\Program.cs",
+              "RelativeToolTip": "02.CharacterMultiplier\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:00:45.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\1.ValidUsernames\\Program.cs",
+              "RelativeDocumentMoniker": "1.ValidUsernames\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-Exercise\\1.ValidUsernames\\Program.cs",
+              "RelativeToolTip": "1.ValidUsernames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:44:59.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

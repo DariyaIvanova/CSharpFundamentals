@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\bin\Debug\net8.0\01.SoftUniReception.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\bin\Debug\net8.0\01.SoftUniReception.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\bin\Debug\net8.0\01.SoftUniReception.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\bin\Debug\net8.0\01.SoftUniReception.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\bin\Debug\net8.0\01.SoftUniReception.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\01.SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\01.SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\01.SoftUniReception.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\01.SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\01.SoftUniReception.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\01.SoftUniReception.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\refint\01.SoftUniReception.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\01.SoftUniReception.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\01.SoftUniReception.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.SoftUniReception\obj\Debug\net8.0\ref\01.SoftUniReception.dll

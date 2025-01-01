@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\bin\Debug\net6.0\6.Registration.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\bin\Debug\net6.0\6.Registration.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\bin\Debug\net6.0\6.Registration.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\bin\Debug\net6.0\6.Registration.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\bin\Debug\net6.0\6.Registration.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\6.Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\6.Registration.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\6.Registration.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\6.Registration.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\6.Registration.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\6.Registration.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\refint\6.Registration.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\6.Registration.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\6.Registration.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\6.Registration\obj\Debug\net6.0\ref\6.Registration.dll

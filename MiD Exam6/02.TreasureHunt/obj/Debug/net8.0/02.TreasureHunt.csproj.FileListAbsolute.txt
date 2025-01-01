@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\refint\02.TreasureHunt.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\02.TreasureHunt\obj\Debug\net8.0\ref\02.TreasureHunt.dll

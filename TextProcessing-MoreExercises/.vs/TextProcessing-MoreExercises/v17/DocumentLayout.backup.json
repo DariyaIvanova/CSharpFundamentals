@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-MoreExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA906328-B841-4DA9-ADAC-0971D6E804CB}|03.TreasureFinder\\03.TreasureFinder.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-moreexercises\\03.treasurefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA906328-B841-4DA9-ADAC-0971D6E804CB}|03.TreasureFinder\\03.TreasureFinder.csproj|solutionrelative:03.treasurefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A889F2-28D7-4680-906B-C475BCA4297C}|Demo\\Demo.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-moreexercises\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A889F2-28D7-4680-906B-C475BCA4297C}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556B729-B632-4FA5-A716-A239CFF74071}|02.AsciiSumator\\02.AsciiSumator.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-moreexercises\\02.asciisumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D556B729-B632-4FA5-A716-A239CFF74071}|02.AsciiSumator\\02.AsciiSumator.csproj|solutionrelative:02.asciisumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1A021F-6E94-41F5-A26F-2F1CBB0BA7F7}|01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\textprocessing-moreexercises\\01.extractpersoninformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1A021F-6E94-41F5-A26F-2F1CBB0BA7F7}|01.ExtractPersonInformation\\01.ExtractPersonInformation.csproj|solutionrelative:01.extractpersoninformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-MoreExercises\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-MoreExercises\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:42:11.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-MoreExercises\\03.TreasureFinder\\Program.cs",
+              "RelativeDocumentMoniker": "03.TreasureFinder\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-MoreExercises\\03.TreasureFinder\\Program.cs",
+              "RelativeToolTip": "03.TreasureFinder\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:18:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-MoreExercises\\02.AsciiSumator\\Program.cs",
+              "RelativeDocumentMoniker": "02.AsciiSumator\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-MoreExercises\\02.AsciiSumator\\Program.cs",
+              "RelativeToolTip": "02.AsciiSumator\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:36:58.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-MoreExercises\\01.ExtractPersonInformation\\Program.cs",
+              "RelativeDocumentMoniker": "01.ExtractPersonInformation\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\TextProcessing-MoreExercises\\01.ExtractPersonInformation\\Program.cs",
+              "RelativeToolTip": "01.ExtractPersonInformation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:17:09.536Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

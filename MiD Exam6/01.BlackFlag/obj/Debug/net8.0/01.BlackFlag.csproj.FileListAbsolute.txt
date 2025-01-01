@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\bin\Debug\net8.0\01.BlackFlag.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\bin\Debug\net8.0\01.BlackFlag.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\bin\Debug\net8.0\01.BlackFlag.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\bin\Debug\net8.0\01.BlackFlag.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\bin\Debug\net8.0\01.BlackFlag.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\01.BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\01.BlackFlag.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\01.BlackFlag.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\01.BlackFlag.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\01.BlackFlag.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\01.BlackFlag.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\refint\01.BlackFlag.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\01.BlackFlag.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\01.BlackFlag.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\01.BlackFlag\obj\Debug\net8.0\ref\01.BlackFlag.dll

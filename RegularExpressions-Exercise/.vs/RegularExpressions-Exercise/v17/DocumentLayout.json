@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\RegularExpressions-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10D42AF-9AC7-45F4-B26A-6C1C6BCAD08B}|06.ExtractEmails\\06.ExtractEmails.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\regularexpressions-exercise\\06.extractemails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10D42AF-9AC7-45F4-B26A-6C1C6BCAD08B}|06.ExtractEmails\\06.ExtractEmails.csproj|solutionrelative:06.extractemails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CFF5CE-156E-4621-8BCC-20CFF0461ECA}|5.NetherRealms\\05.NetherRealms.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\regularexpressions-exercise\\5.netherrealms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CFF5CE-156E-4621-8BCC-20CFF0461ECA}|5.NetherRealms\\05.NetherRealms.csproj|solutionrelative:5.netherrealms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0B0CE7-0C79-4F1C-8AEF-B54C6408DF3D}|02.Race\\02.Race.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\regularexpressions-exercise\\02.race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0B0CE7-0C79-4F1C-8AEF-B54C6408DF3D}|02.Race\\02.Race.csproj|solutionrelative:02.race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCA40B2-8163-44C2-893B-097DAC9EBC6F}|1.Furniture\\01.Furniture.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\regularexpressions-exercise\\1.furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCA40B2-8163-44C2-893B-097DAC9EBC6F}|1.Furniture\\01.Furniture.csproj|solutionrelative:1.furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\RegularExpressions-Exercise\\06.ExtractEmails\\Program.cs",
+              "RelativeDocumentMoniker": "06.ExtractEmails\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\RegularExpressions-Exercise\\06.ExtractEmails\\Program.cs",
+              "RelativeToolTip": "06.ExtractEmails\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:50:04.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\RegularExpressions-Exercise\\5.NetherRealms\\Program.cs",
+              "RelativeDocumentMoniker": "5.NetherRealms\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\RegularExpressions-Exercise\\5.NetherRealms\\Program.cs",
+              "RelativeToolTip": "5.NetherRealms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:50:04.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\RegularExpressions-Exercise\\02.Race\\Program.cs",
+              "RelativeDocumentMoniker": "02.Race\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\RegularExpressions-Exercise\\02.Race\\Program.cs",
+              "RelativeToolTip": "02.Race\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:49:22.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\RegularExpressions-Exercise\\1.Furniture\\Program.cs",
+              "RelativeDocumentMoniker": "1.Furniture\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\RegularExpressions-Exercise\\1.Furniture\\Program.cs",
+              "RelativeToolTip": "1.Furniture\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:36:47.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

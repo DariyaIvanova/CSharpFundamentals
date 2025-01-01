@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\refint\02.RepeatStrings.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\02.RepeatStrings\obj\Debug\net6.0\ref\02.RepeatStrings.dll

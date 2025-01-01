@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\bin\Debug\net8.0\03.HouseParty.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\bin\Debug\net8.0\03.HouseParty.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\bin\Debug\net8.0\03.HouseParty.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\bin\Debug\net8.0\03.HouseParty.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\bin\Debug\net8.0\03.HouseParty.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\03.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\03.HouseParty.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\03.HouseParty.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\03.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\03.HouseParty.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\03.HouseParty.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\refint\03.HouseParty.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\03.HouseParty.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\03.HouseParty.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\03.HouseParty\obj\Debug\net8.0\ref\03.HouseParty.dll

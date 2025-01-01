@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\bin\Debug\net6.0\444.PlantDiscovery.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\bin\Debug\net6.0\444.PlantDiscovery.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\bin\Debug\net6.0\444.PlantDiscovery.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\bin\Debug\net6.0\444.PlantDiscovery.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\bin\Debug\net6.0\444.PlantDiscovery.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\444.PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\444.PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\444.PlantDiscovery.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\444.PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\444.PlantDiscovery.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\444.PlantDiscovery.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\refint\444.PlantDiscovery.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\444.PlantDiscovery.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\444.PlantDiscovery.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\444.PlantDiscovery\obj\Debug\net6.0\ref\444.PlantDiscovery.dll

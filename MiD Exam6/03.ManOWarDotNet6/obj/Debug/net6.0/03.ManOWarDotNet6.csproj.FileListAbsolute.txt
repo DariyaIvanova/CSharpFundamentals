@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\bin\Debug\net6.0\03.ManOWarDotNet6.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\bin\Debug\net6.0\03.ManOWarDotNet6.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\bin\Debug\net6.0\03.ManOWarDotNet6.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\bin\Debug\net6.0\03.ManOWarDotNet6.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\bin\Debug\net6.0\03.ManOWarDotNet6.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\03.ManOWarDotNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\03.ManOWarDotNet6.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\03.ManOWarDotNet6.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\03.ManOWarDotNet6.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\03.ManOWarDotNet6.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\03.ManOWarDotNet6.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\refint\03.ManOWarDotNet6.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\03.ManOWarDotNet6.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\03.ManOWarDotNet6.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam6\03.ManOWarDotNet6\obj\Debug\net6.0\ref\03.ManOWarDotNet6.dll

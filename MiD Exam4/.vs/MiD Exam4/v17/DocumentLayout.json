@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB63548F-01A1-400A-A12C-5F6FF033CDA2}|03.HeartDelivery\\03.HeartDelivery.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam4\\03.heartdelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB63548F-01A1-400A-A12C-5F6FF033CDA2}|03.HeartDelivery\\03.HeartDelivery.csproj|solutionrelative:03.heartdelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFB08B4-406B-44FD-AFF5-098F1023042E}|02.ShoppingList\\02.ShoppingList.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam4\\02.shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFB08B4-406B-44FD-AFF5-098F1023042E}|02.ShoppingList\\02.ShoppingList.csproj|solutionrelative:02.shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7546A697-C34C-426E-B1BF-CA29CA0AA47F}|01.GuineaPig\\01.GuineaPig.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam4\\01.guineapig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7546A697-C34C-426E-B1BF-CA29CA0AA47F}|01.GuineaPig\\01.GuineaPig.csproj|solutionrelative:01.guineapig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam4\\03.HeartDelivery\\Program.cs",
+              "RelativeDocumentMoniker": "03.HeartDelivery\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam4\\03.HeartDelivery\\Program.cs",
+              "RelativeToolTip": "03.HeartDelivery\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:41:18.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam4\\02.ShoppingList\\Program.cs",
+              "RelativeDocumentMoniker": "02.ShoppingList\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam4\\02.ShoppingList\\Program.cs",
+              "RelativeToolTip": "02.ShoppingList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:01:58.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam4\\01.GuineaPig\\Program.cs",
+              "RelativeDocumentMoniker": "01.GuineaPig\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam4\\01.GuineaPig\\Program.cs",
+              "RelativeToolTip": "01.GuineaPig\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:03:53.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\bin\Debug\net6.0\02.AsciiSumator.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\refint\02.AsciiSumator.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\02.AsciiSumator.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\02.AsciiSumator\obj\Debug\net6.0\ref\02.AsciiSumator.dll

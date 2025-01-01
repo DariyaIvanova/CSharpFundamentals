@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\bin\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\refint\01.SumAdjacentEqualNumbers.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\01.SumAdjacentEqualNumbers\obj\Debug\net8.0\ref\01.SumAdjacentEqualNumbers.dll

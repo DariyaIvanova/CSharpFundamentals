@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\bin\Debug\net6.0\1.Furniture.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\bin\Debug\net6.0\1.Furniture.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\bin\Debug\net6.0\1.Furniture.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\bin\Debug\net6.0\1.Furniture.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\bin\Debug\net6.0\1.Furniture.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\1.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\1.Furniture.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\1.Furniture.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\1.Furniture.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\1.Furniture.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\1.Furniture.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\refint\1.Furniture.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\1.Furniture.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\1.Furniture.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\RegularExpressions-Exercise\1.Furniture\obj\Debug\net6.0\ref\1.Furniture.dll

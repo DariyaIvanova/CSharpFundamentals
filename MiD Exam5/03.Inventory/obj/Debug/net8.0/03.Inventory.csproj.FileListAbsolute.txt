@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\bin\Debug\net8.0\03.Inventory.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\bin\Debug\net8.0\03.Inventory.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\bin\Debug\net8.0\03.Inventory.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\bin\Debug\net8.0\03.Inventory.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\bin\Debug\net8.0\03.Inventory.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\03.Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\03.Inventory.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\03.Inventory.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\03.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\03.Inventory.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\03.Inventory.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\refint\03.Inventory.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\03.Inventory.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\03.Inventory.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam5\03.Inventory\obj\Debug\net8.0\ref\03.Inventory.dll

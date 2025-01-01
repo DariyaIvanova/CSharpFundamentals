@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\bin\Debug\net8.0\02.CarRace.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\bin\Debug\net8.0\02.CarRace.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\bin\Debug\net8.0\02.CarRace.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\bin\Debug\net8.0\02.CarRace.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\bin\Debug\net8.0\02.CarRace.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\02.CarRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\02.CarRace.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\02.CarRace.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\02.CarRace.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\02.CarRace.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\02.CarRace.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\refint\02.CarRace.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\02.CarRace.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\02.CarRace.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\02.CarRace\obj\Debug\net8.0\ref\02.CarRace.dll

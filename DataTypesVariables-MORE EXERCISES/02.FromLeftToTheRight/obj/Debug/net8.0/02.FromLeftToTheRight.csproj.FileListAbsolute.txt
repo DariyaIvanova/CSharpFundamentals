@@ -1,0 +1,14 @@
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.exe
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.deps.json
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.runtimeconfig.json
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.dll
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.pdb
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.AssemblyInfo.cs
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.dll
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\obj\Debug\net8.0\refint\02.FromLeftToTheRight.dll
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.pdb
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.genruntimeconfig.cache
+C:\Users\divaj\source\repos\DataTypesVariables-MORE EXERCISES\02.FromLeftToTheRight\obj\Debug\net8.0\ref\02.FromLeftToTheRight.dll

@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\bin\Debug\net8.0\01.Messaging.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\bin\Debug\net8.0\01.Messaging.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\bin\Debug\net8.0\01.Messaging.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\bin\Debug\net8.0\01.Messaging.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\bin\Debug\net8.0\01.Messaging.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\01.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\01.Messaging.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\01.Messaging.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\01.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\01.Messaging.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\01.Messaging.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\refint\01.Messaging.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\01.Messaging.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\01.Messaging.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\01.Messaging\obj\Debug\net8.0\ref\01.Messaging.dll

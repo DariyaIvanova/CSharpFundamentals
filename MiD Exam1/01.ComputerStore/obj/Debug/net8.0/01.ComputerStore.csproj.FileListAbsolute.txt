@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\bin\Debug\net8.0\01.ComputerStore.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\bin\Debug\net8.0\01.ComputerStore.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\bin\Debug\net8.0\01.ComputerStore.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\bin\Debug\net8.0\01.ComputerStore.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\bin\Debug\net8.0\01.ComputerStore.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\01.ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\01.ComputerStore.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\01.ComputerStore.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\01.ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\01.ComputerStore.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\01.ComputerStore.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\refint\01.ComputerStore.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\01.ComputerStore.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\01.ComputerStore.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\01.ComputerStore\obj\Debug\net8.0\ref\01.ComputerStore.dll

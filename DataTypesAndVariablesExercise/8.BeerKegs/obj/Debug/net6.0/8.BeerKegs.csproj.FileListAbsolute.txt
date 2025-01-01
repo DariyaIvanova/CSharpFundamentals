@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\bin\Debug\net6.0\8.BeerKegs.exe
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\bin\Debug\net6.0\8.BeerKegs.deps.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\bin\Debug\net6.0\8.BeerKegs.runtimeconfig.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\bin\Debug\net6.0\8.BeerKegs.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\bin\Debug\net6.0\8.BeerKegs.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\obj\Debug\net6.0\8.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\obj\Debug\net6.0\8.BeerKegs.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\obj\Debug\net6.0\8.BeerKegs.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\obj\Debug\net6.0\8.BeerKegs.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\obj\Debug\net6.0\8.BeerKegs.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\obj\Debug\net6.0\refint\8.BeerKegs.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\obj\Debug\net6.0\8.BeerKegs.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\obj\Debug\net6.0\8.BeerKegs.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\8.BeerKegs\obj\Debug\net6.0\ref\8.BeerKegs.dll

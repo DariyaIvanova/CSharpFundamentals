@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\bin\Debug\net8.0\02.TheLift.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\bin\Debug\net8.0\02.TheLift.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\bin\Debug\net8.0\02.TheLift.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\bin\Debug\net8.0\02.TheLift.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\bin\Debug\net8.0\02.TheLift.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\02.TheLift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\02.TheLift.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\02.TheLift.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\02.TheLift.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\02.TheLift.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\02.TheLift.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\refint\02.TheLift.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\02.TheLift.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\02.TheLift.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\02.TheLift\obj\Debug\net8.0\ref\02.TheLift.dll

@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\refint\06.ReplaceRepeatingChars.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\ref\06.ReplaceRepeatingChars.dll

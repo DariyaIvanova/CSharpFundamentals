@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.exe
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.deps.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.runtimeconfig.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\obj\Debug\net6.0\refint\6.ReversedChars.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\6.ReversedChars\obj\Debug\net6.0\ref\6.ReversedChars.dll

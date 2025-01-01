@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "444.PlantDiscovery/1.0.0": {
+        "runtime": {
+          "444.PlantDiscovery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "444.PlantDiscovery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

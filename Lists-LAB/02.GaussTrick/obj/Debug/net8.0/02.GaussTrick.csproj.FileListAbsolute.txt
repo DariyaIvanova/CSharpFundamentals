@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\bin\Debug\net8.0\02.GaussTrick.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\refint\02.GaussTrick.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\02.GaussTrick.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-LAB\02.GaussTrick\obj\Debug\net8.0\ref\02.GaussTrick.dll

@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\bin\Debug\net6.0\03.TreasureFinder.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\refint\03.TreasureFinder.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\03.TreasureFinder.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\03.TreasureFinder\obj\Debug\net6.0\ref\03.TreasureFinder.dll

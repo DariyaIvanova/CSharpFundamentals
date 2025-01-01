@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\bin\Debug\net6.0\33.ActivationKeys.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\bin\Debug\net6.0\33.ActivationKeys.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\bin\Debug\net6.0\33.ActivationKeys.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\bin\Debug\net6.0\33.ActivationKeys.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\bin\Debug\net6.0\33.ActivationKeys.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\33.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\33.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\33.ActivationKeys.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\33.ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\33.ActivationKeys.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\33.ActivationKeys.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\refint\33.ActivationKeys.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\33.ActivationKeys.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\33.ActivationKeys.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\33.ActivationKeys\obj\Debug\net6.0\ref\33.ActivationKeys.dll

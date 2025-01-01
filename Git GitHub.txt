@@ -1,0 +1,15 @@
+=>>>>GIT and GitHub
+
+Git is version(source) control system
+GitHub is source code hosting site
+ - free for open sourceprojects
+ - paid plans for private repository
+GitHub provides:
+ - git source code repository
+ - issue tracker (bug tracker)
+ - project board (Kanban style)
+ - Wiki pages (documentation)
+ - Code reviews(pul requests)
+ - Build system
+ - Site hosting
+ - Discussions

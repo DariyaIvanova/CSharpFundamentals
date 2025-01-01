@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96380661-78AC-4B5C-B309-D2356C056256}|03.Inventory\\03.Inventory.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam5\\03.inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96380661-78AC-4B5C-B309-D2356C056256}|03.Inventory\\03.Inventory.csproj|solutionrelative:03.inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F31121C-9C0D-4B35-B9B9-069BE0D63E4A}|02.MuOnline\\02.MuOnline.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam5\\02.muonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F31121C-9C0D-4B35-B9B9-069BE0D63E4A}|02.MuOnline\\02.MuOnline.csproj|solutionrelative:02.muonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B34D21-EF7C-41F4-B84F-75FE1F719D91}|01.BonusScoringSystem\\01.BonusScoringSystem.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam5\\01.bonusscoringsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B34D21-EF7C-41F4-B84F-75FE1F719D91}|01.BonusScoringSystem\\01.BonusScoringSystem.csproj|solutionrelative:01.bonusscoringsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam5\\03.Inventory\\Program.cs",
+              "RelativeDocumentMoniker": "03.Inventory\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam5\\03.Inventory\\Program.cs",
+              "RelativeToolTip": "03.Inventory\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwCwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:35:04.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam5\\02.MuOnline\\Program.cs",
+              "RelativeDocumentMoniker": "02.MuOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam5\\02.MuOnline\\Program.cs",
+              "RelativeToolTip": "02.MuOnline\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:45:21.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam5\\01.BonusScoringSystem\\Program.cs",
+              "RelativeDocumentMoniker": "01.BonusScoringSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam5\\01.BonusScoringSystem\\Program.cs",
+              "RelativeToolTip": "01.BonusScoringSystem\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:08:35.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

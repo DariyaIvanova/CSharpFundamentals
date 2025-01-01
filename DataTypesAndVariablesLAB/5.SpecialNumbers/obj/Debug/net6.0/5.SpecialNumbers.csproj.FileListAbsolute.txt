@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.exe
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.deps.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.runtimeconfig.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\obj\Debug\net6.0\refint\5.SpecialNumbers.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\5.SpecialNumbers\obj\Debug\net6.0\ref\5.SpecialNumbers.dll

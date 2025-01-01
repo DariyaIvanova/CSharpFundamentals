@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.exe
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.deps.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.runtimeconfig.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\obj\Debug\net6.0\refint\4.CenturiesToMinutes.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\4.CenturiesToMinutes\obj\Debug\net6.0\ref\4.CenturiesToMinutes.dll

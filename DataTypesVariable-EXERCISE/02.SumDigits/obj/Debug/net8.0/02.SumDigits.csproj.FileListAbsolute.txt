@@ -1,0 +1,14 @@
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\bin\Debug\net8.0\02.SumDigits.exe
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\bin\Debug\net8.0\02.SumDigits.deps.json
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\bin\Debug\net8.0\02.SumDigits.runtimeconfig.json
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\bin\Debug\net8.0\02.SumDigits.dll
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\bin\Debug\net8.0\02.SumDigits.pdb
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\obj\Debug\net8.0\02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\obj\Debug\net8.0\02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\obj\Debug\net8.0\02.SumDigits.AssemblyInfo.cs
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\obj\Debug\net8.0\02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\obj\Debug\net8.0\02.SumDigits.dll
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\obj\Debug\net8.0\refint\02.SumDigits.dll
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\obj\Debug\net8.0\02.SumDigits.pdb
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\obj\Debug\net8.0\02.SumDigits.genruntimeconfig.cache
+C:\Users\divaj\source\repos\DataTypesVariable-EXERCISE\02.SumDigits\obj\Debug\net8.0\ref\02.SumDigits.dll

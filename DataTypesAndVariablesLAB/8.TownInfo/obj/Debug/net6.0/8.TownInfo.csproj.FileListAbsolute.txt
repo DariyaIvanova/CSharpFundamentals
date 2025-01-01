@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\bin\Debug\net6.0\8.TownInfo.exe
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\bin\Debug\net6.0\8.TownInfo.deps.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\bin\Debug\net6.0\8.TownInfo.runtimeconfig.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\bin\Debug\net6.0\8.TownInfo.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\bin\Debug\net6.0\8.TownInfo.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\obj\Debug\net6.0\8.TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\obj\Debug\net6.0\8.TownInfo.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\obj\Debug\net6.0\8.TownInfo.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\obj\Debug\net6.0\8.TownInfo.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\obj\Debug\net6.0\8.TownInfo.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\obj\Debug\net6.0\refint\8.TownInfo.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\obj\Debug\net6.0\8.TownInfo.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\obj\Debug\net6.0\8.TownInfo.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesLAB\8.TownInfo\obj\Debug\net6.0\ref\8.TownInfo.dll

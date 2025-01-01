@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\bin\Debug\net6.0\1.ValidUsernames.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\bin\Debug\net6.0\1.ValidUsernames.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\bin\Debug\net6.0\1.ValidUsernames.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\bin\Debug\net6.0\1.ValidUsernames.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\bin\Debug\net6.0\1.ValidUsernames.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\1.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\1.ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\1.ValidUsernames.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\1.ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\1.ValidUsernames.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\1.ValidUsernames.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\refint\1.ValidUsernames.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\1.ValidUsernames.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\1.ValidUsernames.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\1.ValidUsernames\obj\Debug\net6.0\ref\1.ValidUsernames.dll

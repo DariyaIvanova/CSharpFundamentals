@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.exe
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.deps.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.runtimeconfig.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\obj\Debug\net6.0\refint\6.TriplesOfLatinLetters.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\6.TriplesOfLatinLetters\obj\Debug\net6.0\ref\6.TriplesOfLatinLetters.dll

@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\bin\Debug\net8.0\06.CardsGame.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\bin\Debug\net8.0\06.CardsGame.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\bin\Debug\net8.0\06.CardsGame.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\bin\Debug\net8.0\06.CardsGame.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\bin\Debug\net8.0\06.CardsGame.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\06.CardsGame.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\06.CardsGame.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\06.CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\06.CardsGame.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\06.CardsGame.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\refint\06.CardsGame.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\06.CardsGame.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\06.CardsGame.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\06.CardsGame\obj\Debug\net8.0\ref\06.CardsGame.dll

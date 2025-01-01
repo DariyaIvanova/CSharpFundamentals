@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\bin\Debug\net8.0\02.ChangeList.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\bin\Debug\net8.0\02.ChangeList.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\bin\Debug\net8.0\02.ChangeList.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\bin\Debug\net8.0\02.ChangeList.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\bin\Debug\net8.0\02.ChangeList.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\02.ChangeList.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\02.ChangeList.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\02.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\02.ChangeList.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\02.ChangeList.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\refint\02.ChangeList.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\02.ChangeList.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\02.ChangeList.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-Exercise\02.ChangeList\obj\Debug\net8.0\ref\02.ChangeList.dll

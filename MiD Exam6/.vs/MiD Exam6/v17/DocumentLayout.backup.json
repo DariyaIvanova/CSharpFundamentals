@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46B144F2-650E-477E-9E4B-ED786A274336}|03.ManOWarDotNet6\\03.ManOWarDotNet6.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam6\\03.manowardotnet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B144F2-650E-477E-9E4B-ED786A274336}|03.ManOWarDotNet6\\03.ManOWarDotNet6.csproj|solutionrelative:03.manowardotnet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC696E84-BBF1-4F6F-9A6E-ECFDAD612836}|03.ManOWar\\03.ManOWar.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam6\\03.manowar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC696E84-BBF1-4F6F-9A6E-ECFDAD612836}|03.ManOWar\\03.ManOWar.csproj|solutionrelative:03.manowar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F84C941-E32F-43DD-A067-4E3763BCBE2D}|02.TreasureHunt\\02.TreasureHunt.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam6\\02.treasurehunt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F84C941-E32F-43DD-A067-4E3763BCBE2D}|02.TreasureHunt\\02.TreasureHunt.csproj|solutionrelative:02.treasurehunt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB430C4-54B8-4372-A3F2-D7A1B08DB070}|01.BlackFlag\\01.BlackFlag.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam6\\01.blackflag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB430C4-54B8-4372-A3F2-D7A1B08DB070}|01.BlackFlag\\01.BlackFlag.csproj|solutionrelative:01.blackflag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam6\\03.ManOWarDotNet6\\Program.cs",
+              "RelativeDocumentMoniker": "03.ManOWarDotNet6\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam6\\03.ManOWarDotNet6\\Program.cs",
+              "RelativeToolTip": "03.ManOWarDotNet6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:35:33.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam6\\03.ManOWar\\Program.cs",
+              "RelativeDocumentMoniker": "03.ManOWar\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam6\\03.ManOWar\\Program.cs",
+              "RelativeToolTip": "03.ManOWar\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:42:26.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam6\\02.TreasureHunt\\Program.cs",
+              "RelativeDocumentMoniker": "02.TreasureHunt\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam6\\02.TreasureHunt\\Program.cs",
+              "RelativeToolTip": "02.TreasureHunt\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:01:08.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam6\\01.BlackFlag\\Program.cs",
+              "RelativeDocumentMoniker": "01.BlackFlag\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam6\\01.BlackFlag\\Program.cs",
+              "RelativeToolTip": "01.BlackFlag\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:29:43.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCA280F-59BA-4E97-B7CB-13DC10DC0CEE}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\objectandclasses-lab\\07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCA280F-59BA-4E97-B7CB-13DC10DC0CEE}|07.VehicleCatalogue\\07.VehicleCatalogue.csproj|solutionrelative:07.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D747656-310B-454E-80A2-84E064E5B884}|06.StoreBoxes\\06.StoreBoxes.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\objectandclasses-lab\\06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D747656-310B-454E-80A2-84E064E5B884}|06.StoreBoxes\\06.StoreBoxes.csproj|solutionrelative:06.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ACC77B-BBDA-4D1E-9B62-D0DDADA46292}|05.Students2\\05.Students2.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\objectandclasses-lab\\05.students2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ACC77B-BBDA-4D1E-9B62-D0DDADA46292}|05.Students2\\05.Students2.csproj|solutionrelative:05.students2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD45A3B-1E0E-41C2-9E70-4B0D5D7EF39E}|04.Students\\04.Students.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\objectandclasses-lab\\04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD45A3B-1E0E-41C2-9E70-4B0D5D7EF39E}|04.Students\\04.Students.csproj|solutionrelative:04.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6495C28A-4EED-4763-A376-0DFC7F9F7217}|03.Songs\\03.Songs.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\objectandclasses-lab\\03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6495C28A-4EED-4763-A376-0DFC7F9F7217}|03.Songs\\03.Songs.csproj|solutionrelative:03.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA51B25D-20FE-4161-9030-C2C943367D8A}|Demo\\Demo.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\objectandclasses-lab\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA51B25D-20FE-4161-9030-C2C943367D8A}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AE7F57-34DA-4FDA-A98D-0CA8F4AD3417}|02.BigFactorial\\02.BigFactorial.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\objectandclasses-lab\\02.bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AE7F57-34DA-4FDA-A98D-0CA8F4AD3417}|02.BigFactorial\\02.BigFactorial.csproj|solutionrelative:02.bigfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426DF50-4A3F-4191-A365-661CC6F6BC90}|1.RandomizeWords\\1.RandomizeWords.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\objectandclasses-lab\\1.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426DF50-4A3F-4191-A365-661CC6F6BC90}|1.RandomizeWords\\1.RandomizeWords.csproj|solutionrelative:1.randomizewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\07.VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "07.VehicleCatalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\07.VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "07.VehicleCatalogue\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:41:41.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\06.StoreBoxes\\Program.cs",
+              "RelativeDocumentMoniker": "06.StoreBoxes\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\06.StoreBoxes\\Program.cs",
+              "RelativeToolTip": "06.StoreBoxes\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:38:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\05.Students2\\Program.cs",
+              "RelativeDocumentMoniker": "05.Students2\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\05.Students2\\Program.cs",
+              "RelativeToolTip": "05.Students2\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:31:01.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\04.Students\\Program.cs",
+              "RelativeDocumentMoniker": "04.Students\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\04.Students\\Program.cs",
+              "RelativeToolTip": "04.Students\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:57:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\03.Songs\\Program.cs",
+              "RelativeDocumentMoniker": "03.Songs\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\03.Songs\\Program.cs",
+              "RelativeToolTip": "03.Songs\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:39:38.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\02.BigFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "02.BigFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\02.BigFactorial\\Program.cs",
+              "RelativeToolTip": "02.BigFactorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:32:40.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:10:39.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\1.RandomizeWords\\Program.cs",
+              "RelativeDocumentMoniker": "1.RandomizeWords\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\ObjectAndClasses-LAB\\1.RandomizeWords\\Program.cs",
+              "RelativeToolTip": "1.RandomizeWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:23:22.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

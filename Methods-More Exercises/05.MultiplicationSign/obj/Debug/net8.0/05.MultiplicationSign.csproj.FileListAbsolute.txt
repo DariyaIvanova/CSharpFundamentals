@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\refint\05.MultiplicationSign.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\05.MultiplicationSign\obj\Debug\net8.0\ref\05.MultiplicationSign.dll

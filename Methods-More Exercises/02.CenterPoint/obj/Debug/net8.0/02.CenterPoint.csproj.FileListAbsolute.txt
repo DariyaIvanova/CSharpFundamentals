@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\refint\02.CenterPoint.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\02.CenterPoint\obj\Debug\net8.0\ref\02.CenterPoint.dll

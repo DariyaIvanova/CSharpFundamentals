@@ -1,0 +1,29 @@
+HTTP 
+
+- is text-based protocol, that uses the CLIENT-SERVER model;
+- for transferring WEB resources(HTML files, images, stykes etc.);
+- request-response based, relies on URLs;
+- stateless - every request is independent, the server doesn't keep the info;
+-HTTP connects front-end with back-end;
+-front - end and back-end separates the modern apps into client-side (UI) and server - side (data) components;
+
+
+TCP - transmission control protocol. After request had been created through HTTP, it goes to TCP protocol. It is a transport protocol that provides data transfer reliability
+IP - мрежов протокол, който отговаря за маршрутизирането на пакети от даннии.
+ETHERNET - протокол на ниво мрежови интерфейс, който управлява комуникацията между устройствата в някаква локална мрежа.
+
+POSTMAN - client tool for developers. Composes and send HTTP requests
+
+OSI Model - концептуална рамка, която описва как различните мрежови протоколи и устройства взаимодействат при комуникации в мрежите.
+Разделя процеса на мрежова комуниакция на тези седм слоя:
+ |- Physical
+ |- Data link
+ |- Network
+ |- Transport
+ |- Session
+ |- Presentation
+ |- Application
+ V
+ 
+ 
+ CRUD operations - create(POST), read (GET), update (PUT), delete (DELETE)

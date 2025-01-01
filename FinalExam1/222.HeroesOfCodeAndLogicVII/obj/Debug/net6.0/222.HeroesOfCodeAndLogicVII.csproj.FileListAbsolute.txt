@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\222.HeroesOfCodeAndLogicVII.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\222.HeroesOfCodeAndLogicVII.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\222.HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\222.HeroesOfCodeAndLogicVII.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\bin\Debug\net6.0\222.HeroesOfCodeAndLogicVII.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\222.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\222.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\222.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\222.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\222.HeroesOfCodeAndLogicVII.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\222.HeroesOfCodeAndLogicVII.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\refint\222.HeroesOfCodeAndLogicVII.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\222.HeroesOfCodeAndLogicVII.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\222.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\222.HeroesOfCodeAndLogicVII\obj\Debug\net6.0\ref\222.HeroesOfCodeAndLogicVII.dll

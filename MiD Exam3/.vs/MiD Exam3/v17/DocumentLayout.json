@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E01B458-9ABD-4F33-A53E-321FB61CBB6D}|03.MovingTarget\\03.MovingTarget.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam3\\03.movingtarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E01B458-9ABD-4F33-A53E-321FB61CBB6D}|03.MovingTarget\\03.MovingTarget.csproj|solutionrelative:03.movingtarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F201B4-4FD4-4FE7-A311-C4AF3EF0B740}|02.ShootForTheWin\\02.ShootForTheWin.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam3\\02.shootforthewin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F201B4-4FD4-4FE7-A311-C4AF3EF0B740}|02.ShootForTheWin\\02.ShootForTheWin.csproj|solutionrelative:02.shootforthewin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE0B99-C921-4354-B172-4FF079B3BC62}|01.CounterStrike\\01.CounterStrike.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exam3\\01.counterstrike\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE0B99-C921-4354-B172-4FF079B3BC62}|01.CounterStrike\\01.CounterStrike.csproj|solutionrelative:01.counterstrike\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam3\\03.MovingTarget\\Program.cs",
+              "RelativeDocumentMoniker": "03.MovingTarget\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam3\\03.MovingTarget\\Program.cs",
+              "RelativeToolTip": "03.MovingTarget\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:53:58.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam3\\02.ShootForTheWin\\Program.cs",
+              "RelativeDocumentMoniker": "02.ShootForTheWin\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam3\\02.ShootForTheWin\\Program.cs",
+              "RelativeToolTip": "02.ShootForTheWin\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:47:23.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam3\\01.CounterStrike\\Program.cs",
+              "RelativeDocumentMoniker": "01.CounterStrike\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exam3\\01.CounterStrike\\Program.cs",
+              "RelativeToolTip": "01.CounterStrike\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:00:30.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

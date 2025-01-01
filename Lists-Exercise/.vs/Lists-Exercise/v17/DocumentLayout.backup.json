@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73CB154F-1C8B-46C1-8EA1-CEC50A7FBB2E}|10.SoftUniCoursePlanning\\10.SoftUniCoursePlanning.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\10.softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CB154F-1C8B-46C1-8EA1-CEC50A7FBB2E}|10.SoftUniCoursePlanning\\10.SoftUniCoursePlanning.csproj|solutionrelative:10.softunicourseplanning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008008B0-9C84-47B4-93A5-9AC48F97AD84}|09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\09.pokemondon\u0027tgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008008B0-9C84-47B4-93A5-9AC48F97AD84}|09.PokemonDon\u0027tGo\\09.PokemonDon\u0027tGo.csproj|solutionrelative:09.pokemondon\u0027tgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8467A4-7CE9-458A-B502-1C5936D7404F}|08.AnonymousThreat\\08.AnonymousThreat.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\08.anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8467A4-7CE9-458A-B502-1C5936D7404F}|08.AnonymousThreat\\08.AnonymousThreat.csproj|solutionrelative:08.anonymousthreat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821D25BB-4521-4B30-8090-D6DCB5A9FD67}|07.AppendArrays\\07.AppendArrays.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821D25BB-4521-4B30-8090-D6DCB5A9FD67}|07.AppendArrays\\07.AppendArrays.csproj|solutionrelative:07.appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C3472F-C905-423D-926A-1DA2FA41A438}|06.CardsGame\\06.CardsGame.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C3472F-C905-423D-926A-1DA2FA41A438}|06.CardsGame\\06.CardsGame.csproj|solutionrelative:06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF681F7-2473-472C-AB27-A51B1F24FE4C}|05.BombNumbers\\05.BombNumbers.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF681F7-2473-472C-AB27-A51B1F24FE4C}|05.BombNumbers\\05.BombNumbers.csproj|solutionrelative:05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF950A40-058D-427F-A378-3756FC41D1D3}|04.ListOperations\\04.ListOperations.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF950A40-058D-427F-A378-3756FC41D1D3}|04.ListOperations\\04.ListOperations.csproj|solutionrelative:04.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22281C82-F4DF-4A02-BC4B-0135E1461FA4}|03.HouseParty\\03.HouseParty.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22281C82-F4DF-4A02-BC4B-0135E1461FA4}|03.HouseParty\\03.HouseParty.csproj|solutionrelative:03.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF916DA-6FA6-49E5-B00B-6A58E7B5C446}|02.ChangeList\\02.ChangeList.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF916DA-6FA6-49E5-B00B-6A58E7B5C446}|02.ChangeList\\02.ChangeList.csproj|solutionrelative:02.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A1FBBA-D66E-4AA3-8269-E915B0F4E3FF}|01.Train\\01.Train.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-exercise\\01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A1FBBA-D66E-4AA3-8269-E915B0F4E3FF}|01.Train\\01.Train.csproj|solutionrelative:01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\10.SoftUniCoursePlanning\\Program.cs",
+              "RelativeDocumentMoniker": "10.SoftUniCoursePlanning\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\10.SoftUniCoursePlanning\\Program.cs",
+              "RelativeToolTip": "10.SoftUniCoursePlanning\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:04:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\09.PokemonDon\u0027tGo\\Program.cs",
+              "RelativeDocumentMoniker": "09.PokemonDon\u0027tGo\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\09.PokemonDon\u0027tGo\\Program.cs",
+              "RelativeToolTip": "09.PokemonDon\u0027tGo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:57:16.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\08.AnonymousThreat\\Program.cs",
+              "RelativeDocumentMoniker": "08.AnonymousThreat\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\08.AnonymousThreat\\Program.cs",
+              "RelativeToolTip": "08.AnonymousThreat\\Program.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:10:26.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\07.AppendArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07.AppendArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\07.AppendArrays\\Program.cs",
+              "RelativeToolTip": "07.AppendArrays\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:47:22.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "06.CardsGame\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeToolTip": "06.CardsGame\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:03:32.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.BombNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeToolTip": "05.BombNumbers\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:52:03.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\04.ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\04.ListOperations\\Program.cs",
+              "RelativeToolTip": "04.ListOperations\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:18:21.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\03.HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "03.HouseParty\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\03.HouseParty\\Program.cs",
+              "RelativeToolTip": "03.HouseParty\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:51:44.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\02.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "02.ChangeList\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\02.ChangeList\\Program.cs",
+              "RelativeToolTip": "02.ChangeList\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:38:45.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\01.Train\\Program.cs",
+              "RelativeDocumentMoniker": "01.Train\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-Exercise\\01.Train\\Program.cs",
+              "RelativeToolTip": "01.Train\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:18:14.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

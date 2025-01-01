@@ -1,0 +1,29 @@
+SHORTCUTS:
+
+ALT + Enter = > convert to program main style
+CTRL+K+C - after select multiple lines we can comment all of them
+CTRL+SHIFT+SPACE - we can view the overloading methods
+CTRL+K+D - formatting code against the rules
+CTRL F5 - start without debugging
+F5 - start with debugger
+F10/F11 - trace the program (F11 - при debug влизаме вътре и в самия извикан метод)
+SHIFT+F5-STOP DEBUGGING
+F9 - toggle/untoggle breakpoint
+ALT+ arrow (up/down) after selection of multiple lines code, moves it up or down
+Windows button + arrows (up, down,left, right)
+moves the window
+Ctrl K K -make bookmarks
+CTRL R R - change the name of the variable anywhere in the code
+CTRL F - search in the code Visual studio
+CTRL H - change the searched thing
+CTRL + SHFT + HOME - marks from the position of the cursor till the start of the page
+CTRL + SHFT + END- marks from the position of the cursor till the end of the page
+
+Word wrap - за пренасяне на нов ред
+CTRL + . - извикваме чукчето
+F1 - върху нещо - се отваря документацията в интернет
+
+CTRL+SHIFT+R - с resharper (extract method) прави метод от маркирания код
+
+CTRL + M+ O - closes all methods
+CTRL + M+ L - opens all methods

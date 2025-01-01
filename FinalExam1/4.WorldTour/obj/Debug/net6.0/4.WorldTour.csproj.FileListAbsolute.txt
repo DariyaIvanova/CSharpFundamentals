@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\bin\Debug\net6.0\4.WorldTour.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\bin\Debug\net6.0\4.WorldTour.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\bin\Debug\net6.0\4.WorldTour.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\bin\Debug\net6.0\4.WorldTour.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\bin\Debug\net6.0\4.WorldTour.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\4.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\4.WorldTour.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\4.WorldTour.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\4.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\4.WorldTour.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\4.WorldTour.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\refint\4.WorldTour.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\4.WorldTour.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\4.WorldTour.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\4.WorldTour\obj\Debug\net6.0\ref\4.WorldTour.dll

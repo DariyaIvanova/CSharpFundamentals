@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\bin\Debug\net8.0\10.MultiplyEvensByOdds.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\refint\10.MultiplyEvensByOdds.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\10.MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-LAB\10.MultiplyEvensByOdds\obj\Debug\net8.0\ref\10.MultiplyEvensByOdds.dll

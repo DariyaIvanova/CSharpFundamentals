@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.exe
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.deps.json
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.runtimeconfig.json
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.dll
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\bin\Debug\net8.0\01.SignOfIntegerNumbers.pdb
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.dll
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\obj\Debug\net8.0\refint\01.SignOfIntegerNumbers.dll
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.pdb
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\obj\Debug\net8.0\01.SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\Methods-LAB\01.SignOfIntegerNumbers\obj\Debug\net8.0\ref\01.SignOfIntegerNumbers.dll

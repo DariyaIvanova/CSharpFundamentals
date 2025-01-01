@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\bin\Debug\net8.0\03.Numbers.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\bin\Debug\net8.0\03.Numbers.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\bin\Debug\net8.0\03.Numbers.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\bin\Debug\net8.0\03.Numbers.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\bin\Debug\net8.0\03.Numbers.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\03.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\03.Numbers.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\03.Numbers.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\03.Numbers.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\03.Numbers.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\03.Numbers.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\refint\03.Numbers.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\03.Numbers.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\03.Numbers.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\03.Numbers\obj\Debug\net8.0\ref\03.Numbers.dll

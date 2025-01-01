@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26ED199E-9DB2-4FA8-AC00-D4B4AB00EDA1}|03.TakeSkipRope\\03.TakeSkipRope.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-more exercises\\03.takeskiprope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26ED199E-9DB2-4FA8-AC00-D4B4AB00EDA1}|03.TakeSkipRope\\03.TakeSkipRope.csproj|solutionrelative:03.takeskiprope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605B3DB2-DD35-403F-AFBD-E5D61763DECA}|05.DrumSet\\05.DrumSet.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-more exercises\\05.drumset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605B3DB2-DD35-403F-AFBD-E5D61763DECA}|05.DrumSet\\05.DrumSet.csproj|solutionrelative:05.drumset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5F4257-B99B-430F-8C7A-013355A03C50}|04.MixedUpLists\\04.MixedUpLists.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-more exercises\\04.mixeduplists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5F4257-B99B-430F-8C7A-013355A03C50}|04.MixedUpLists\\04.MixedUpLists.csproj|solutionrelative:04.mixeduplists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD6B0D2-910B-4313-A24B-E13FF0115E9B}|02.CarRace\\02.CarRace.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-more exercises\\02.carrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD6B0D2-910B-4313-A24B-E13FF0115E9B}|02.CarRace\\02.CarRace.csproj|solutionrelative:02.carrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CC24F0-6FCF-45AC-9BAB-4933FEEC2688}|01.Messaging\\01.Messaging.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\lists-more exercises\\01.messaging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CC24F0-6FCF-45AC-9BAB-4933FEEC2688}|01.Messaging\\01.Messaging.csproj|solutionrelative:01.messaging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\05.DrumSet\\Program.cs",
+              "RelativeDocumentMoniker": "05.DrumSet\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\05.DrumSet\\Program.cs",
+              "RelativeToolTip": "05.DrumSet\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:04:06.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\04.MixedUpLists\\Program.cs",
+              "RelativeDocumentMoniker": "04.MixedUpLists\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\04.MixedUpLists\\Program.cs",
+              "RelativeToolTip": "04.MixedUpLists\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:31:43.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\03.TakeSkipRope\\Program.cs",
+              "RelativeDocumentMoniker": "03.TakeSkipRope\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\03.TakeSkipRope\\Program.cs",
+              "RelativeToolTip": "03.TakeSkipRope\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:51:35.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\02.CarRace\\Program.cs",
+              "RelativeDocumentMoniker": "02.CarRace\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\02.CarRace\\Program.cs",
+              "RelativeToolTip": "02.CarRace\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:40:09.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\01.Messaging\\Program.cs",
+              "RelativeDocumentMoniker": "01.Messaging\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Lists-More Exercises\\01.Messaging\\Program.cs",
+              "RelativeToolTip": "01.Messaging\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:34:20.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

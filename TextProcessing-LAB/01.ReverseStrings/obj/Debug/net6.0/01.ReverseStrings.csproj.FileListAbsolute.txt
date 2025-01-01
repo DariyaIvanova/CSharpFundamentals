@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\refint\01.ReverseStrings.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-LAB\01.ReverseStrings\obj\Debug\net6.0\ref\01.ReverseStrings.dll

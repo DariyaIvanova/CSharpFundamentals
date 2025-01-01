@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\bin\Debug\net8.0\02.ShoppingList.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\refint\02.ShoppingList.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\02.ShoppingList.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam4\02.ShoppingList\obj\Debug\net8.0\ref\02.ShoppingList.dll

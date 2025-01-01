@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\refint\03.MemoryGame.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exams\03.MemoryGame\obj\Debug\net8.0\ref\03.MemoryGame.dll

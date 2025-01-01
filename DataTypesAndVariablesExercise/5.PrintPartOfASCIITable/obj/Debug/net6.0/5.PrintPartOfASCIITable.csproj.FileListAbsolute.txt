@@ -1,0 +1,14 @@
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\bin\Debug\net6.0\5.PrintPartOfASCIITable.exe
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\bin\Debug\net6.0\5.PrintPartOfASCIITable.deps.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\bin\Debug\net6.0\5.PrintPartOfASCIITable.runtimeconfig.json
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\bin\Debug\net6.0\5.PrintPartOfASCIITable.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\bin\Debug\net6.0\5.PrintPartOfASCIITable.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\obj\Debug\net6.0\5.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\obj\Debug\net6.0\5.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\obj\Debug\net6.0\5.PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\obj\Debug\net6.0\5.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\obj\Debug\net6.0\5.PrintPartOfASCIITable.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\obj\Debug\net6.0\refint\5.PrintPartOfASCIITable.dll
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\obj\Debug\net6.0\5.PrintPartOfASCIITable.pdb
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\obj\Debug\net6.0\5.PrintPartOfASCIITable.genruntimeconfig.cache
+C:\Data\CSharpFundamentals\DataTypesAndVariablesExercise\5.PrintPartOfASCIITable\obj\Debug\net6.0\ref\5.PrintPartOfASCIITable.dll

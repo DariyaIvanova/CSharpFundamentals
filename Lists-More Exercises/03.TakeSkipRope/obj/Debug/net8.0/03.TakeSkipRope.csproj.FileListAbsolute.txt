@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\bin\Debug\net8.0\03.TakeSkipRope.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\refint\03.TakeSkipRope.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\03.TakeSkipRope.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\03.TakeSkipRope\obj\Debug\net8.0\ref\03.TakeSkipRope.dll

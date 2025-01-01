@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\bin\Debug\net8.0\05.DrumSet.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\bin\Debug\net8.0\05.DrumSet.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\bin\Debug\net8.0\05.DrumSet.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\bin\Debug\net8.0\05.DrumSet.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\bin\Debug\net8.0\05.DrumSet.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\05.DrumSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\05.DrumSet.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\05.DrumSet.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\05.DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\05.DrumSet.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\05.DrumSet.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\refint\05.DrumSet.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\05.DrumSet.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\05.DrumSet.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Lists-More Exercises\05.DrumSet\obj\Debug\net8.0\ref\05.DrumSet.dll

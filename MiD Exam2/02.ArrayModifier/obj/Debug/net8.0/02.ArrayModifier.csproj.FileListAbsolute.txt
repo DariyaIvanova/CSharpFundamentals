@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\refint\02.ArrayModifier.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\MiD Exam2\02.ArrayModifier\obj\Debug\net8.0\ref\02.ArrayModifier.dll

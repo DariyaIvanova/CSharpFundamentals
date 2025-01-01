@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\bin\Debug\net8.0\03.LongerLine.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\bin\Debug\net8.0\03.LongerLine.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\bin\Debug\net8.0\03.LongerLine.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\bin\Debug\net8.0\03.LongerLine.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\bin\Debug\net8.0\03.LongerLine.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\03.LongerLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\03.LongerLine.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\03.LongerLine.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\03.LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\03.LongerLine.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\03.LongerLine.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\refint\03.LongerLine.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\03.LongerLine.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\03.LongerLine.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\Methods-More Exercises\03.LongerLine\obj\Debug\net8.0\ref\03.LongerLine.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CEA1C-843E-45F4-81A7-75F76E8E0400}|03.MemoryGame\\03.MemoryGame.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exams\\03.memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CEA1C-843E-45F4-81A7-75F76E8E0400}|03.MemoryGame\\03.MemoryGame.csproj|solutionrelative:03.memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41355FEE-7FC4-4F4B-830C-4CFC6A4B8A53}|Demo\\Demo.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exams\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41355FEE-7FC4-4F4B-830C-4CFC6A4B8A53}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7B452-2A34-46A7-B649-BABB0E728AF2}|02.TheLift\\02.TheLift.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exams\\02.thelift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7B452-2A34-46A7-B649-BABB0E728AF2}|02.TheLift\\02.TheLift.csproj|solutionrelative:02.thelift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7411F9E-855A-4CED-B935-240784C8A6C4}|01.ComputerStore\\01.ComputerStore.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\mid exams\\01.computerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7411F9E-855A-4CED-B935-240784C8A6C4}|01.ComputerStore\\01.ComputerStore.csproj|solutionrelative:01.computerstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exams\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exams\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:48:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exams\\03.MemoryGame\\Program.cs",
+              "RelativeDocumentMoniker": "03.MemoryGame\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exams\\03.MemoryGame\\Program.cs",
+              "RelativeToolTip": "03.MemoryGame\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:18:14.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exams\\02.TheLift\\Program.cs",
+              "RelativeDocumentMoniker": "02.TheLift\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exams\\02.TheLift\\Program.cs",
+              "RelativeToolTip": "02.TheLift\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:42:09.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exams\\01.ComputerStore\\Program.cs",
+              "RelativeDocumentMoniker": "01.ComputerStore\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\MiD Exams\\01.ComputerStore\\Program.cs",
+              "RelativeToolTip": "01.ComputerStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:02:28.914Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

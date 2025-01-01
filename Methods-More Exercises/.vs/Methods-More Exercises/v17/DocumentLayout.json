@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Methods-More Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF90B090-B0D5-4C68-BC2B-17511C0A7F70}|05.MultiplicationSign\\05.MultiplicationSign.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\methods-more exercises\\05.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF90B090-B0D5-4C68-BC2B-17511C0A7F70}|05.MultiplicationSign\\05.MultiplicationSign.csproj|solutionrelative:05.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16526D4F-39D0-4150-B8C7-BD789DAF74A7}|04.TribonacciSequence\\04.TribonacciSequence.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\methods-more exercises\\04.tribonaccisequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16526D4F-39D0-4150-B8C7-BD789DAF74A7}|04.TribonacciSequence\\04.TribonacciSequence.csproj|solutionrelative:04.tribonaccisequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5479BF8-9B22-4C2A-8079-191E5CB28E30}|03.LongerLine\\03.LongerLine.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\methods-more exercises\\03.longerline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5479BF8-9B22-4C2A-8079-191E5CB28E30}|03.LongerLine\\03.LongerLine.csproj|solutionrelative:03.longerline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9A784C-7DA5-4EBF-83CB-E4C3E8725F00}|02.CenterPoint\\02.CenterPoint.csproj|c:\\users\\divaj\\source\\repos\\csharpfund-sept-2024\\methods-more exercises\\02.centerpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9A784C-7DA5-4EBF-83CB-E4C3E8725F00}|02.CenterPoint\\02.CenterPoint.csproj|solutionrelative:02.centerpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Methods-More Exercises\\05.MultiplicationSign\\Program.cs",
+              "RelativeDocumentMoniker": "05.MultiplicationSign\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Methods-More Exercises\\05.MultiplicationSign\\Program.cs",
+              "RelativeToolTip": "05.MultiplicationSign\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:10:48.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Methods-More Exercises\\04.TribonacciSequence\\Program.cs",
+              "RelativeDocumentMoniker": "04.TribonacciSequence\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Methods-More Exercises\\04.TribonacciSequence\\Program.cs",
+              "RelativeToolTip": "04.TribonacciSequence\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:40:00.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Methods-More Exercises\\03.LongerLine\\Program.cs",
+              "RelativeDocumentMoniker": "03.LongerLine\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Methods-More Exercises\\03.LongerLine\\Program.cs",
+              "RelativeToolTip": "03.LongerLine\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:38:05.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Methods-More Exercises\\02.CenterPoint\\Program.cs",
+              "RelativeDocumentMoniker": "02.CenterPoint\\Program.cs",
+              "ToolTip": "C:\\Users\\divaj\\source\\repos\\CSharpFUND-Sept-2024\\Methods-More Exercises\\02.CenterPoint\\Program.cs",
+              "RelativeToolTip": "02.CenterPoint\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA8wCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:28:26.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

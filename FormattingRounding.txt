@@ -1,0 +1,77 @@
+==>>>>>
+FORMATTING AND ROUNDING
+
+1. MidpointRounding AwayFromZero
+double roundedNumber = Math.Round(nums[i], MidpointRounding.AwayFromZero);
+
+=>>>>>FORMATTING
+string[] results = tests.Split(new char[] { ']', '[' }, StringSplitOptions.RemoveEmptyEntries);
+MM - Month with leading 0
+M - Month without leading 0
+dd - Day with leading 0
+d - Day without leading 0
+yyyy - 4 Digit year
+yy - 2 Digit year
+HH - Military Hour with leading 0
+H - Military Hour without leading 0
+hh - Hour with leading 0
+h - Hour without leading 0
+mm - Minute with leading 0
+m - Minute without leading 0
+ss - Second with leading 0
+s - Second without leading 0
+tt - AM / PM 
+
+
+EScaping Characters
+▪ Escaping sequences
+▪ Represent a special character like ', " or \n (new line)
+▪ Represent system characters (like the [TAB] character \t)
+▪ Commonly used escaping sequences are
+▪ \' → for single quote \" → for double quote
+▪ \\ → for backslash \n → for new line
+▪ \uXXXX → for denoting any other Unicode symbol
+
+Characters and Codes
+Each character has a unique Unicode value (int)
+char ch = 'a';
+Console.WriteLine("The code of '{0}' is: {1}", ch, (int) ch);
+ch = 'b';
+Console.WriteLine("The code of '{0}' is: {1}", ch, (int) ch);
+ch = 'A';
+Console.WriteLine("The code of '{0}' is: {1}", ch, (int) ch);
+ch = 'щ'; // Cyrillic letter 'sht'   -------------------------------> Console.OutoutEncoding=System.Text.Encoding.UTF8;
+Console.WriteLine("The code of '{0}' is: {1}", ch, (int) ch);
+
+
+Character Literals
+char symbol = 'a'; // An ordinary character
+symbol = '\u006F'; // Unicode character code in a
+// hexadecimal format (letter 'o')
+symbol = '\u8449'; //
+葉 (Leaf in Traditional Chinese)
+symbol = '\''; // Assigning the single quote character
+symbol = '\\'; // Assigning the backslash character
+symbol = '\n'; // Assigning new line character
+symbol = '\t'; // Assigning TAB character
+symbol = "a"; // Incorrect: use single quotes!
+
+
+Verbatim and Interpolated Strings
+
+▪ Strings are enclosed in quotes ""
+
+string file = "C:\\Windows\\win.ini";
+
+▪ Strings can be verbatim (no escaping)
+
+string file = @"C:\Windows\win.ini";
+
+▪ You can use verbatim strings with interpolation
+
+string os = "Windows";
+string file = "win.ini";
+string path = $@"C:\{os}\{file}";
+
+
+

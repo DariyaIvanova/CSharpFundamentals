@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\bin\Debug\net6.0\01.ExtractPersonInformation.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\refint\01.ExtractPersonInformation.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\01.ExtractPersonInformation.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-MoreExercises\01.ExtractPersonInformation\obj\Debug\net6.0\ref\01.ExtractPersonInformation.dll

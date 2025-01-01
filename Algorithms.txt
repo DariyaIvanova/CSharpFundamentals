@@ -1,0 +1,208 @@
+===>>>>How to rotate an array to the left
+int[] arr = Console.ReadLine()
+.Split()
+.Select(int.Parse)
+.ToArray();
+
+int rotations = int.Parse(Console.ReadLine());
+rotations = rotations % arr.Length;
+
+for (int i = 0; i < rotations; i++)
+{
+    int firstElement = arr[0];
+    for (int j = 0; j < arr.Length-1; j++)
+    {
+        arr[j] = arr[j + 1];
+    }
+    arr[arr.Length-1]= firstElement;
+}
+Console.WriteLine(string.Join(" ", arr));
+
+
+=>>>How to reverse a String using charArray?
+
+string input = Console.ReadLine();
+char[] inputArray = input.ToCharArray();
+Array.Reverse(inputArray);
+string output = new string(inputArray);
+Console.WriteLine(output);
+
+
+==>>>>> How to reverse an Array??? - with swap elements
+string[] array = Console.ReadLine().Split();
+
+for (int i = 0; i < array.Length/2; i++)
+{
+    string temp=array[i];
+    array[i] = array[array.Length-i-1];
+    array[array.Length - i - 1] = temp;
+}
+Console.WriteLine(string.Join(" ", array));
+
+
+==>>>>>How to reverse an array?
+int n = int.Parse(Console.ReadLine());
+int[] numbers = new int[n];
+for (int i = 0; i < n; i++)
+{
+    numbers[i] = int.Parse(Console.ReadLine());   
+}
+for (int i = 0; i < n; i++)
+{
+    Console.WriteLine(numbers[numbers.Length-1-i]+ " ");
+}
+
+
+==>>>> MidPoint rounding Away from ZERO
+double[] numbers = Console.ReadLine().Split().Select(double.Parse).ToArray();
+for (int i = 0; i < numbers.Length; i++)
+{
+    double roundedNumber = Math.Round(numbers[i], MidpointRounding.AwayFromZero);
+    Console.WriteLine($"{numbers[i]} => {roundedNumber}");
+}
+
+
+==>>>>>>>>>>Sum EVEN numbers
+static void Main()
+    {
+        int sum = Console.ReadLine().Split().Select(int.Parse).ToArray().Where(x => x % 2==0).Sum();
+        Console.WriteLine(sum);
+    }
+
+
+
+==>>>>>>>>>>>>Reverse ARRAY of strings
+string[] arr = Console.ReadLine().Split();
+
+        for (int i = 0; i < arr.Length/2; i++)
+        {
+            string temp=arr[i];
+            arr[i] = arr[arr.Length - 1 - i];
+            arr[arr.Length - 1 - i]=temp;
+        }
+        Console.WriteLine(string.Join(" ", arr));
+		
+		
+		
+		
+
+=>>>How to sort an array in descending order?
+
+int[] nums = new int[3];
+for (int i = 0; i < nums.Length; i++)
+{nums[i] = int.Parse(Console.ReadLine());}
+Array.Sort(nums, (a, b) => b.CompareTo(a));
+for (int i = 0; i < nums.Length; i++)
+{Console.WriteLine(nums[i]);}
+
+
+=>>>>Combinations
+Напишете програма, която изчислява колко решения в естествените числа (включително и нулата) има уравнението:
+x1 + x2 + x3 = nЧислото n е цяло число и се въвежда от конзолата. 
+
+int n = int.Parse(Console.ReadLine());
+// Mathematical solution using arithmetic progressions. Complexity: O(1)
+/*int ans = (n + 1) * (n + 2) / 2;
+Console.WriteLine(ans);*/
+
+int ans = 0;
+for (int i = 0; i <= n; i++)
+{
+    int remaining = n - i;
+    for (int j = 0; j <= remaining; j++)
+    {
+        // i + j + _ = n
+        ans++;
+    }
+}Console.WriteLine(ans);
+
+
+=>>>>> ARRAY
+Reading array:
+int [] numbers=Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+Creating new array:
+string[] daysOfWeek=new string[7] {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
+Writing an array: 
+Array.Reverse(number);
+Console.WriteLine(string.Join(", ", numbers));
+
+
+
+
+
+=>>>>>FOR Cycle
+FOR CYCLE
+for ( initialization (Control variable); Condition; Change/step)
+
+
+
+
+=>>>> Ternarny operation
+Ternanry operator:
+available money=available money-money ? 0: available money-money 
+this is equivalent to:
+if (available money-money<0)
+{
+available money=0;
+}
+else 
+{
+available money-=money
+}
+
+
+=>>>>> Algorythm for checking PRIME Numbers
+static bool IsPrimeChecker(int number)
+{
+    bool prime = true;
+    for (int i =2; i <= Math.Sqrt(number) ; i++)
+    {
+        if (number%i==0)
+        {
+            prime = false;
+            break;
+        }
+    }
+    return prime;
+}
+
+
+========> Trim() - removing ending characters
+Работи върху стрингове:
+string input;
+input.TrimEnd(' ',','); - маха окончаващите празно място и запетайка на края на стринга
+
+
+
+=====================>>> Algorythm for calculation a factorial (by default n should be >0)
+
+static int FactorialCalculation(int num1)
+{
+    int factorial = 1;
+    for (int i = num1; i >= 2; i--)
+    {
+        factorial *= i;
+    }
+    return factorial;
+}
+
+==========> New way for AND operator
+if (grade is >=2 and <=2.99)
+{
+.................
+052 665 220/227 
+}
+
+========================> Clamp of indexes
+static int Clamp(int value, int min, int max)
+{
+    if (value < min)
+    {
+        value = min;
+    }
+    else if (value > max)
+    {
+        value = max;
+    }
+    return value;
+}

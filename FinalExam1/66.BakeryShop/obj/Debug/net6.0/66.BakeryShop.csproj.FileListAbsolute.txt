@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\bin\Debug\net6.0\66.BakeryShop.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\bin\Debug\net6.0\66.BakeryShop.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\bin\Debug\net6.0\66.BakeryShop.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\bin\Debug\net6.0\66.BakeryShop.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\bin\Debug\net6.0\66.BakeryShop.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\66.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\66.BakeryShop.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\66.BakeryShop.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\66.BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\66.BakeryShop.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\66.BakeryShop.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\refint\66.BakeryShop.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\66.BakeryShop.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\66.BakeryShop.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\FinalExam1\66.BakeryShop\obj\Debug\net6.0\ref\66.BakeryShop.dll

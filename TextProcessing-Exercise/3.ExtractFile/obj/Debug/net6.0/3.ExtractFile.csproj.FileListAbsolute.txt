@@ -1,0 +1,15 @@
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\bin\Debug\net6.0\3.ExtractFile.exe
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\bin\Debug\net6.0\3.ExtractFile.deps.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\bin\Debug\net6.0\3.ExtractFile.runtimeconfig.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\bin\Debug\net6.0\3.ExtractFile.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\bin\Debug\net6.0\3.ExtractFile.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\3.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\3.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\3.ExtractFile.AssemblyInfo.cs
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\3.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\3.ExtractFile.sourcelink.json
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\3.ExtractFile.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\refint\3.ExtractFile.dll
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\3.ExtractFile.pdb
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\3.ExtractFile.genruntimeconfig.cache
+C:\Users\divaj\source\repos\CSharpFUND-Sept-2024\TextProcessing-Exercise\3.ExtractFile\obj\Debug\net6.0\ref\3.ExtractFile.dll
